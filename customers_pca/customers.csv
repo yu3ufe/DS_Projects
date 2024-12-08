@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Location,TotalSpending,NumPurchases,WebsiteVisits,CustomerServiceCalls
+735655,30.0,,San Diego,3309.47,31,23,7
+164040,25.0,Female,,6132.8,49,23,3
+534829,38.0,Male,Los Angeles,6722.73,36,10,1
+305729,21.0,Male,Phoenix,9458.42,37,33,1
+171078,40.0,Male,Houston,3937.45,42,2,4
+121561,57.0,Female,Philadelphia,,46,12,5
+909847,69.0,Male,San Antonio,6747.0,33,33,2
+376776,48.0,Female,Philadelphia,4063.76,39,56,2
+776275,56.0,Female,Philadelphia,2476.44,38,0,10
+701975,28.0,Male,San Antonio,1103.39,25,68,0
+756902,27.0,Male,Philadelphia,899.42,37,77,1
+650221,37.0,Female,Philadelphia,960.89,1,82,-1
+800056,19.0,Male,Los Angeles,2094.79,35,96,6
+985754,69.0,Female,New York,2720.75,19,19,7
+509060,22.0,Male,San Jose,3597.64,4,49,5
+307084,35.0,Male,Dallas,7731.51,38,74,8
+519440,41.0,Female,San Jose,9656.3,31,13,10
+893194,67.0,Female,Los Angeles,5436.65,34,0,7
+657298,40.0,Male,New York,3240.16,11,35,8
+680609,64.0,Female,San Antonio,4195.36,38,17,2
+536704,58.0,Male,Houston,7653.15,45,67,0
+941701,31.0,Male,Philadelphia,4018.33,24,46,4
+840806,55.0,Male,Dallas,436.15,27,0,2
+958232,67.0,Male,San Jose,2648.88,38,13,1
+594879,57.0,Male,Dallas,9598.79,29,65,9
+170979,48.0,Male,Dallas,9638.44,27,13,4
+749152,47.0,Female,Dallas,517.78,40,10,3
+613819,46.0,Female,San Antonio,7922.62,21,9,10
+423254,20.0,Female,San Diego,6901.16,50,40,4
+608261,59.0,Male,San Antonio,5217.24,35,16,2
+795806,24.0,Female,Houston,3676.89,36,17,10
+536814,52.0,Female,San Jose,7365.73,,30,2
+766926,33.0,Male,Dallas,1505.36,1,66,5
+560140,25.0,Male,San Antonio,5552.6,35,10,10
+519344,55.0,Female,San Diego,326.2,47,56,3
+876063,57.0,Female,Los Angeles,4716.54,48,46,8
+836518,60.0,Male,Philadelphia,6338.68,39,87,8
+453192,38.0,Female,Los Angeles,8475.55,41,42,1
+754295,67.0,Female,San Diego,8676.01,1,23,9
+147003,50.0,Male,Dallas,8669.09,38,99,10
+349880,68.0,Male,Dallas,1353.72,35,37,9
+361671,56.0,Male,Phoenix,1438.88,49,69,9
+205161,22.0,Female,Chicago,2116.73,45,68,1
+245581,53.0,Male,Chicago,7788.96,25,52,5
+812450,68.0,Female,Houston,9545.0,20,63,2
+134560,65.0,Male,San Jose,494.76,17,42,9
+568688,44.0,Female,San Diego,1444.52,2,84,5
+363347,60.0,Female,Phoenix,7420.14,0,58,0
+242064,56.0,Female,San Jose,1067.44,6,67,3
+318789,18.0,Female,San Antonio,3698.22,13,57,5
+141373,62.0,Male,Chicago,9956.83,32,12,9
+599004,56.0,Male,Los Angeles,4213.31,1,33,10
+209521,36.0,Male,San Diego,5983.88,14,17,2
+867509,64.0,Female,San Jose,9927.1,23,93,2
+809454,53.0,Male,San Jose,3959.25,31,71,8
+273986,68.0,Male,San Diego,596.0,8,72,8
+888461,69.0,Male,Dallas,6841.44,20,28,5
+361068,70.0,Female,San Jose,6850.68,-1,15,6
+767999,34.0,Female,Dallas,3216.56,25,41,7
+182095,22.0,Female,Phoenix,1720.95,42,55,1
+337137,34.0,Female,Chicago,9861.65,20,91,8
+490465,66.0,Female,San Diego,5664.59,47,45,1
+125760,24.0,Male,Chicago,4059.88,49,65,9
+407971,26.0,Female,San Jose,3428.72,45,39,0
+503141,18.0,Female,San Jose,4521.3,11,70,4
+882772,36.0,Female,San Diego,6457.21,8,11,8
+294316,46.0,Female,San Antonio,9681.1,36,0,2
+563392,34.0,Female,Chicago,8485.26,41,28,5
+633066,70.0,Male,Houston,8818.43,29,31,5
+430947,58.0,Female,Philadelphia,222.79,49,,6
+691882,64.0,Female,Los Angeles,8969.69,0,63,3
+720595,56.0,Female,Phoenix,2776.09,28,73,6
+220622,39.0,Male,San Diego,3432.57,6,9,0
+463470,39.0,Male,Dallas,1734.95,8,94,8
+980161,23.0,Female,Dallas,2400.93,47,15,9
+805286,33.0,Female,Philadelphia,7270.71,9,28,3
+718445,68.0,Female,Phoenix,2445.23,40,22,9
+194105,24.0,Female,123,6672.53,46,68,10
+331030,35.0,Female,San Jose,6813.84,20,67,7
+875257,34.0,Male,Houston,9918.51,18,96,7
+785264,26.0,Male,Philadelphia,7679.79,40,94,6
+179271,56.0,Female,Chicago,7347.87,0,97,7
+275498,68.0,Male,San Jose,9807.84,33,90,7
+563770,40.0,Female,Dallas,8520.33,41,24,3
+411835,32.0,Female,Chicago,2602.57,6,51,1
+781602,45.0,Female,New York,9184.27,25,44,4
+963130,63.0,Male,San Diego,3105.76,3,88,6
+696598,67.0,Female,Chicago,2036.29,12,36,6
+447572,18.0,Female,Dallas,6546.44,50,45,10
+872277,36.0,Female,San Diego,2993.16,27,63,7
+268722,69.0,Male,San Antonio,6088.2,7,14,10
+255162,62.0,Female,Dallas,4431.44,17,28,4
+286765,50.0,Female,Phoenix,6642.91,4,33,1
+808728,50.0,Male,San Diego,951.58,0,83,2
+414622,40.0,Female,Los Angeles,3439.05,13,49,4
+920046,37.0,Male,Los Angeles,5985.3,16,87,1
+212386,30.0,Female,Philadelphia,844.15,10,46,10
+910270,70.0,Female,San Jose,6119.64,2,16,10
+674494,46.0,Female,New York,9603.62,40,21,5
+100764,63.0,Female,Phoenix,6190.01,0,36,4
+359799,64.0,Male,San Diego,6677.76,24,52,0
+665393,52.0,Male,Dallas,2492.65,18,53,7
+931196,48.0,Female,San Antonio,2118.24,14,77,7
+302267,60.0,Female,Chicago,2125.94,34,92,4
+304286,23.0,Female,Houston,2746.92,10,69,2
+494733,35.0,Male,Philadelphia,5487.3,39,61,3
+811649,45.0,Male,San Diego,4369.0,38,94,5
+860333,49.0,Female,Chicago,4206.18,46,88,4
+193138,49.0,Male,Los Angeles,6217.33,49,100,0
+358012,44.0,Male,San Antonio,2484.95,17,46,5
+190472,61.0,Male,Houston,3685.28,26,87,0
+679302,67.0,Male,San Diego,1554.08,45,97,9
+960019,66.0,Male,San Antonio,9981.86,9,87,
+346615,47.0,Female,San Antonio,4141.94,6,96,8
+507479,19.0,Female,Los Angeles,5056.82,18,38,6
+587286,25.0,Male,Los Angeles,5262.44,1,72,10
+839491,45.0,Male,Houston,4357.74,21,79,7
+498670,65.0,Female,New York,9677.93,27,19,0
+523201,70.0,Female,Houston,9840.0,23,34,10
+584507,61.0,Female,Dallas,3279.46,13,81,5
+320218,33.0,Male,New York,938.07,48,93,9
+820360,32.0,Female,Dallas,5689.44,41,26,2
+945372,45.0,Male,Phoenix,4154.35,17,93,5
+210935,70.0,Male,Chicago,7756.39,47,71,3
+105739,32.0,Female,Dallas,7801.02,38,10,9
+690522,41.0,Male,Dallas,5383.96,49,40,7
+558355,51.0,Male,San Antonio,3602.35,6,86,6
+712333,36.0,Female,Dallas,2808.0,10,17,5
+679714,18.0,Male,Dallas,4906.91,37,32,7
+201032,52.0,Female,Philadelphia,5585.9,14,7,5
+617877,69.0,Female,San Jose,4369.31,27,95,6
+144941,40.0,Female,Dallas,9021.12,40,78,6
+254937,65.0,Female,Phoenix,9552.63,35,46,9
+894735,36.0,Female,Chicago,7967.5,23,94,0
+519418,49.0,Male,Philadelphia,9613.45,8,76,10
+938645,41.0,Female,Chicago,7704.44,28,97,7
+-1,60.0,Male,Chicago,3570.62,25,53,0
+862836,51.0,Male,Los Angeles,1441.55,48,50,9
+247253,52.0,Female,Houston,5163.8,3,68,4
+805987,32.0,Male,San Diego,9921.81,34,51,6
+157358,69.0,Male,Chicago,high,25,34,2
+738942,52.0,Male,Chicago,9975.5,39,73,6
+467868,64.0,Female,Phoenix,4015.88,5,14,3
+489085,23.0,Male,San Antonio,3427.39,35,59,6
+476784,36.0,Male,San Diego,781.26,18,8,5
+462088,60.0,Female,San Antonio,985.83,36,10,8
+977401,31.0,Male,San Diego,4533.79,29,68,1
+784265,28.0,Female,San Antonio,4721.42,8,28,3
+310728,65.0,Male,San Antonio,9499.8,4,42,9
+213332,43.0,Male,Philadelphia,4174.82,5,67,8
+236207,27.0,Female,San Diego,5585.71,15,53,9
+239947,50.0,Male,Houston,4529.25,18,89,0
+595499,56.0,Female,San Diego,2421.12,41,53,4
+539579,39.0,Female,Los Angeles,1121.99,17,27,4
+436673,42.0,Female,San Diego,3188.04,1,34,7
+660332,52.0,Female,Los Angeles,7256.79,15,94,5
+519827,52.0,Male,San Diego,7335.4,15,29,10
+858123,59.0,Male,Houston,6881.46,38,94,3
+912653,61.0,Male,San Jose,7071.12,19,43,8
+297446,69.0,Female,Houston,6059.99,26,80,8
+335857,27.0,Female,San Antonio,3728.09,25,50,10
+236456,54.0,Female,Los Angeles,6664.58,6,78,5
+650101,47.0,Female,San Jose,3952.86,42,76,4
+312296,24.0,Female,Houston,2399.7,29,2,1
+191013,66.0,Female,New York,2918.63,46,81,4
+590630,30.0,Female,San Antonio,8980.27,28,46,7
+109238,31.0,Female,San Jose,2986.44,17,39,1
+349695,55.0,Female,San Diego,2784.38,29,100,2
+771143,37.0,Male,Los Angeles,474.59,20,59,1
+746614,23.0,Female,Los Angeles,7813.22,34,41,2
+446131,24.0,Male,Houston,816.44,39,19,2
+,59.0,Male,New York,8167.25,42,72,6
+181229,39.0,Female,New York,2275.15,11,24,2
+518847,21.0,Female,Chicago,44.86,0,12,8
+131768,63.0,Female,Houston,3924.25,6,46,4
+316166,51.0,Female,Phoenix,8878.25,49,90,2
+624168,70.0,Female,San Jose,1114.3,37,18,5
+417438,21.0,Male,New York,7267.85,7,73,0
+347400,35.0,Female,San Antonio,7670.99,9,79,6
+615217,21.0,Female,Phoenix,104.21,10,51,2
+541495,59.0,Male,Houston,5974.4,30,32,7
+717589,21.0,Male,Houston,1580.91,14,26,0
+342464,34.0,Male,Phoenix,1086.12,28,43,-1
+511676,68.0,Female,San Jose,875.38,19,22,4
+478382,64.0,Female,Chicago,131.24,44,40,1
+747512,22.0,Male,Chicago,1342.76,26,17,9
+703970,39.0,Female,Phoenix,2664.15,41,81,4
+961569,35.0,Female,Dallas,1487.75,45,85,9
+777652,42.0,Male,New York,8763.82,11,99,0
+272962,24.0,Female,San Diego,679.82,45,31,4
+508785,52.0,Female,San Jose,7243.67,6,8,5
+230538,20.0,Female,San Jose,5064.4,2,26,6
+937648,18.0,Female,Philadelphia,6235.13,-1,40,10
+774019,62.0,Female,Los Angeles,1297.17,15,51,4
+389543,61.0,Unknown,New York,5820.39,6,44,10
+778435,58.0,Female,Los Angeles,6039.4,38,47,9
+447160,38.0,Female,San Diego,8050.48,5,92,5
+542440,35.0,Male,Philadelphia,5311.46,19,64,10
+461333,63.0,Male,New York,9862.3,9,68,3
+440947,68.0,Male,San Diego,7819.35,0,87,2
+610378,22.0,Female,San Jose,8607.61,15,33,6
+707411,50.0,Male,Philadelphia,5889.12,3,93,6
+740041,36.0,Female,Los Angeles,2767.75,16,88,8
+753177,20.0,Female,Los Angeles,6993.12,13,97,7
+847820,51.0,Male,San Antonio,7987.5,15,65,10
+458173,32.0,Female,San Antonio,78.17,45,73,9
+847593,44.0,Male,San Diego,4171.0,0,25,3
+589978,18.0,Male,Dallas,7161.96,15,34,4
+874446,55.0,Male,San Jose,8568.69,17,57,10
+676001,23.0,Female,San Jose,4640.41,15,66,2
+286786,58.0,Female,Phoenix,5769.36,9,36,1
+654275,38.0,Male,New York,2585.05,49,41,9
+113221,32.0,Male,Dallas,6893.6,37,84,6
+731146,56.0,Male,San Diego,775.9,20,81,8
+395201,48.0,Female,New York,1715.81,45,87,-1
+585154,24.0,Male,Chicago,6317.11,6,24,3
+775525,69.0,Male,Chicago,754.46,12,51,5
+949169,23.0,Male,New York,5093.02,26,81,4
+275591,45.0,Female,New York,813.64,33,76,6
+910359,20.0,Male,Houston,7066.78,44,3,10
+122224,24.0,Female,Phoenix,3130.96,31,61,10
+450182,26.0,Female,Los Angeles,6755.69,19,31,3
+791375,70.0,Female,Houston,1413.44,18,37,5
+971424,21.0,Female,Dallas,6704.08,29,60,3
+993019,31.0,Male,Philadelphia,9569.33,28,55,0
+884643,18.0,Female,Chicago,9972.24,2,98,3
+596814,39.0,Female,Chicago,9082.22,43,72,4
+485793,69.0,Male,Dallas,2468.69,47,8,1
+447367,38.0,Male,Los Angeles,3928.81,15,19,1
+690954,29.0,Male,Philadelphia,7427.45,20,74,-1
+459584,66.0,Male,New York,680.61,8,2,9
+357645,28.0,Female,Los Angeles,4493.83,8,5,6
+620119,41.0,Male,San Jose,4711.14,31,55,9
+659844,66.0,Male,Los Angeles,8905.69,10,94,3
+370816,42.0,Male,San Diego,9219.86,2,86,6
+484223,30.0,Female,Dallas,7913.29,3,89,8
+527624,60.0,Female,Dallas,716.04,38,72,7
+435758,45.0,Male,Los Angeles,4935.62,36,46,7
+142677,29.0,Female,San Antonio,8474.5,5,98,7
+188410,31.0,Female,New York,660.02,6,49,7
+405879,70.0,Female,New York,818.57,41,71,9
+963212,41.0,Male,Chicago,3042.99,41,36,1
+623560,36.0,Male,San Diego,1550.95,45,55,5
+328412,56.0,Female,San Diego,5676.64,25,27,4
+920305,24.0,Male,Dallas,1443.25,26,57,7
+930772,48.0,Female,Phoenix,4198.84,45,32,9
+275122,44.0,Female,Los Angeles,1033.08,36,78,4
+491085,60.0,Male,Dallas,7482.64,10,80,2
+754554,62.0,Male,Los Angeles,4175.13,45,87,6
+307743,42.0,Female,Dallas,4182.17,22,-1,10
+653062,28.0,Female,Phoenix,7418.89,21,62,3
+195672,21.0,Male,San Jose,4210.93,11,63,8
+891003,49.0,Female,Phoenix,6809.02,6,51,0
+145572,52.0,Female,San Jose,4443.27,27,30,2
+101620,38.0,Male,Houston,1825.18,49,52,5
+345165,46.0,Male,Chicago,8330.99,18,37,1
+668055,55.0,Female,San Jose,6088.18,47,21,10
+746790,70.0,Male,New York,8244.91,20,43,-1
+199972,26.0,Male,Phoenix,3716.35,5,65,0
+304681,49.0,Female,Philadelphia,4083.63,46,35,9
+682828,57.0,Female,New York,2168.08,0,69,1
+777668,51.0,Female,New York,6538.52,5,65,5
+404723,60.0,Female,Dallas,4826.21,17,73,10
+136479,59.0,Female,Philadelphia,4632.5,23,91,1
+340044,70.0,Male,San Diego,9841.04,36,58,10
+104981,61.0,Female,Philadelphia,7879.81,26,87,2
+761432,52.0,Male,Los Angeles,6351.09,34,56,3
+726908,65.0,Female,Los Angeles,6562.06,44,44,8
+467914,54.0,Female,Phoenix,6791.32,25,42,7
+543208,62.0,Female,San Antonio,5517.27,40,68,3
+464837,30.0,Female,Dallas,2230.72,24,96,10
+525943,56.0,Female,Dallas,4664.78,9,23,10
+587462,40.0,Female,Phoenix,5840.16,33,50,-1
+700525,54.0,Male,Houston,1486.39,17,3,4
+865521,54.0,Female,San Diego,2333.4,23,74,9
+914534,36.0,Male,San Diego,4481.96,33,82,10
+951725,67.0,Male,Chicago,5235.91,38,52,4
+363379,59.0,Male,San Diego,8612.12,7,74,6
+333390,33.0,Female,New York,5632.35,6,28,10
+707908,30.0,Male,San Diego,4702.89,11,70,2
+359018,46.0,Male,San Antonio,4785.1,43,35,9
+463902,48.0,Male,Houston,863.56,4,41,1
+440453,29.0,Female,San Jose,8728.84,4,91,4
+721730,55.0,Female,San Jose,67.57,3,15,10
+699390,55.0,Male,New York,6352.77,25,55,8
+248755,67.0,Female,San Jose,2950.57,21,68,4
+350080,,Male,Houston,4156.29,30,11,9
+312909,36.0,Male,Philadelphia,342.58,20,24,2
+280498,20.0,Female,Chicago,1780.59,22,76,5
+588269,63.0,Female,New York,2618.58,28,94,5
+832617,37.0,Female,Chicago,7617.04,35,21,0
+428644,46.0,Male,San Antonio,6161.54,31,88,10
+189013,27.0,Female,San Diego,2680.0,9,43,4
+745189,35.0,Male,Dallas,5180.25,34,7,4
+996678,50.0,Male,San Jose,2794.68,38,76,8
+938393,49.0,Female,Houston,7042.92,30,22,1
+355382,70.0,Female,Phoenix,727.76,45,44,10
+486090,60.0,Female,Dallas,4816.34,27,76,4
+478067,64.0,Male,Philadelphia,4044.99,16,18,10
+592632,24.0,Female,Los Angeles,1384.94,28,44,9
+853905,37.0,Female,San Jose,6686.79,10,84,0
+985367,52.0,Female,Houston,3311.83,19,16,10
+604228,67.0,Male,Los Angeles,148.94,22,80,9
+588807,69.0,Female,Los Angeles,8352.49,7,30,4
+199374,54.0,Female,Phoenix,2533.27,10,-1,5
+335026,23.0,Female,Philadelphia,9490.77,19,47,7
+143187,64.0,Male,San Jose,5330.65,34,56,4
+998872,55.0,Female,San Jose,6731.83,4,20,5
+310647,40.0,Female,San Diego,4074.97,11,39,4
+273942,41.0,Female,San Jose,3024.62,47,5,8
+480713,50.0,Female,San Diego,5463.53,10,9,4
+846869,59.0,Female,Dallas,3435.81,18,13,9
+151594,69.0,Female,San Antonio,4042.36,42,71,1
+133868,65.0,Female,Phoenix,9250.59,30,70,2
+311481,39.0,Male,San Diego,7764.02,12,54,5
+928280,22.0,Female,San Jose,9544.75,33,76,3
+315308,66.0,Female,Philadelphia,416.16,47,45,10
+946307,49.0,Female,San Diego,7973.25,10,6,7
+488010,49.0,Female,Chicago,7172.07,13,39,1
+911649,33.0,Female,San Antonio,3926.42,27,61,1
+556125,33.0,Female,San Antonio,2494.3,27,30,4
+889705,36.0,Male,San Antonio,8032.25,14,51,9
+725839,26.0,Male,Philadelphia,5517.12,40,14,6
+570755,63.0,Female,Los Angeles,1913.83,14,76,8
+410970,24.0,Female,San Jose,2483.43,7,0,5
+744788,64.0,Male,Los Angeles,866.69,14,5,7
+278125,24.0,Male,Dallas,83.07,11,86,10
+571650,20.0,Male,Phoenix,7734.46,2,97,5
+647822,21.0,Female,San Antonio,8350.63,9,45,9
+828730,39.0,Male,New York,72.33,31,84,5
+996211,44.0,Female,New York,1941.28,30,50,10
+384852,59.0,Male,San Jose,4199.45,10,76,5
+490349,29.0,Male,New York,847.31,7,73,6
+476819,24.0,Male,Chicago,5823.75,12,64,2
+765237,33.0,Male,San Antonio,9743.56,35,20,9
+552186,64.0,Male,Chicago,4606.29,13,12,7
+185563,24.0,Male,Houston,1188.74,14,34,4
+902918,57.0,Female,San Jose,619.07,50,44,1
+159229,38.0,Female,Houston,7904.22,3,10,0
+847447,56.0,Female,Dallas,9745.56,22,71,10
+134519,27.0,Female,Houston,6995.44,42,63,10
+435209,27.0,Male,San Jose,9927.98,38,93,1
+470275,53.0,Male,San Antonio,6999.84,31,22,6
+282761,33.0,Female,New York,5637.9,31,85,6
+180790,39.0,Female,Phoenix,2401.28,29,88,2
+948414,28.0,Female,Chicago,3305.48,39,84,6
+350344,28.0,Male,Philadelphia,8683.79,1,44,7
+771203,38.0,Female,Los Angeles,6784.71,6,12,6
+355927,34.0,Male,New York,7442.01,39,29,10
+148679,51.0,Male,Phoenix,6587.18,45,91,2
+279205,52.0,Female,Los Angeles,3000.6,27,69,5
+192435,67.0,Male,San Diego,5900.25,42,40,0
+179464,22.0,Male,San Diego,6526.56,40,82,1
+622621,58.0,Female,San Antonio,2703.6,33,86,10
+847209,53.0,Female,Philadelphia,9269.29,1,42,3
+529332,55.0,Male,Dallas,6266.33,9,13,1
+507733,36.0,Female,New York,3456.46,5,64,0
+143808,61.0,Male,New York,2567.49,1,35,7
+448895,32.0,Female,Houston,6540.22,41,99,8
+970257,34.0,Female,Los Angeles,2980.19,35,44,4
+435774,48.0,Male,San Antonio,455.38,38,35,10
+748743,52.0,Female,San Jose,7711.68,29,92,2
+105210,42.0,Female,San Jose,1201.21,16,57,3
+273010,44.0,Female,Phoenix,8341.13,25,34,2
+639485,53.0,Female,Phoenix,6356.58,19,80,4
+116190,47.0,Female,New York,4952.77,13,20,8
+812912,51.0,Male,Dallas,7839.03,29,69,3
+606121,25.0,Female,New York,4866.89,27,94,4
+874285,32.0,Male,Philadelphia,2688.92,7,25,2
+447617,47.0,Male,Phoenix,1931.8,46,55,1
+569038,62.0,Female,San Diego,4405.21,19,65,7
+234923,30.0,Male,Los Angeles,1035.97,9,89,9
+280827,70.0,Female,Los Angeles,8821.23,6,89,9
+789794,33.0,Male,San Antonio,9398.76,40,59,7
+545338,20.0,Female,Philadelphia,4022.32,-1,1,2
+107056,58.0,Female,Houston,2961.89,7,-1,10
+419001,35.0,Female,Houston,9653.32,40,47,10
+802390,62.0,Male,San Diego,6024.59,45,-1,8
+482369,21.0,Female,Chicago,2787.1,50,99,8
+788995,55.0,Female,New York,8061.35,49,43,2
+731107,41.0,Female,New York,2537.02,44,1,9
+828203,41.0,Unknown,Phoenix,2824.9,39,16,3
+805264,33.0,Male,Los Angeles,8705.58,7,65,10
+783641,38.0,Male,San Jose,5549.64,34,99,1
+638034,52.0,Male,San Jose,3434.58,20,31,8
+759972,55.0,Male,San Diego,1281.41,22,54,7
+528847,53.0,Male,New York,1718.97,5,73,6
+391665,30.0,Female,123,6403.97,32,27,10
+927617,59.0,Female,San Jose,5332.61,22,6,3
+194621,33.0,Male,San Diego,2367.18,23,78,2
+-1,49.0,Male,New York,6434.5,24,57,8
+679703,23.0,Male,San Diego,1098.03,23,84,1
+921875,42.0,Female,Houston,4623.67,46,92,2
+540100,55.0,Male,Chicago,8726.68,24,17,0
+508086,18.0,Female,New York,1222.0,33,30,1
+323077,69.0,Male,Phoenix,8482.53,44,29,1
+523144,54.0,Female,San Diego,8460.81,24,11,4
+348147,43.0,Female,Dallas,1184.42,26,20,7
+769870,30.0,Female,Philadelphia,9853.92,36,47,8
+404680,36.0,Female,Houston,8795.33,43,73,4
+358614,57.0,Female,Philadelphia,993.73,8,84,9
+830512,67.0,Female,New York,6189.4,11,31,5
+608226,40.0,Female,Dallas,8382.79,26,9,4
+540074,24.0,Male,Philadelphia,2656.6,16,75,4
+194404,42.0,Male,San Jose,3631.89,5,0,7
+338714,65.0,Female,Phoenix,1583.84,19,17,10
+920996,22.0,Male,New York,7675.76,4,93,8
+823762,54.0,Female,Chicago,90.16,25,73,6
+306104,20.0,Female,Houston,604.28,26,53,10
+901172,30.0,Male,San Diego,9986.45,28,89,2
+189405,35.0,Female,Dallas,1186.02,4,51,10
+221369,47.0,Male,Phoenix,2576.91,23,66,5
+502432,59.0,Female,Houston,4831.67,20,15,5
+939027,62.0,Male,San Diego,270.33,35,43,7
+235411,62.0,Male,San Jose,8725.26,46,4,5
+869715,33.0,Female,San Diego,7670.47,27,33,2
+878468,51.0,Male,San Antonio,6705.24,24,25,7
+255082,69.0,Male,Philadelphia,4065.27,26,15,9
+445063,42.0,Female,San Diego,5217.92,6,29,1
+969807,70.0,Male,Dallas,1437.45,44,16,5
+728354,66.0,Male,Chicago,7926.68,29,30,9
+420301,32.0,Female,Philadelphia,8221.51,44,68,6
+526638,57.0,Male,Dallas,6990.13,47,93,1
+401185,48.0,Male,Chicago,1979.32,15,81,2
+234156,19.0,Male,San Antonio,8097.71,16,45,9
+864153,65.0,Male,New York,1871.97,30,80,8
+932068,62.0,Female,Los Angeles,5837.46,42,30,5
+397997,33.0,Female,San Antonio,4305.09,49,78,10
+346333,19.0,Male,Chicago,4202.79,34,38,10
+980566,52.0,Female,Dallas,2884.97,3,95,3
+598617,28.0,Male,New York,6030.6,13,6,6
+661873,54.0,Male,Philadelphia,8489.24,27,38,1
+963437,52.0,Male,Phoenix,5946.06,13,97,5
+542970,59.0,Female,Los Angeles,7188.9,1,21,7
+161224,37.0,Male,San Antonio,8167.04,9,29,1
+712589,38.0,Female,Chicago,1855.17,-1,0,3
+484150,63.0,Female,Philadelphia,3520.87,5,47,5
+231890,31.0,Male,Houston,8402.04,21,97,6
+136232,67.0,Male,San Diego,697.49,1,15,9
+702632,20.0,Male,Houston,7352.95,50,2,1
+228799,21.0,Male,Houston,362.47,14,89,9
+618497,56.0,Male,Philadelphia,319.85,49,84,6
+728665,21.0,Male,Houston,3122.33,24,37,0
+219755,26.0,Female,Houston,6465.03,2,14,1
+898006,21.0,Female,Phoenix,1338.26,37,91,8
+924840,18.0,Male,San Antonio,1870.6,49,99,5
+335144,68.0,Male,Dallas,6332.6,6,52,10
+156020,21.0,Female,New York,7722.33,41,97,2
+306995,35.0,Female,Dallas,7205.52,4,20,4
+877637,55.0,Male,San Jose,4559.33,23,19,6
+164911,57.0,Female,San Diego,2248.82,45,48,10
+663851,24.0,Female,San Antonio,7600.8,6,39,2
+435006,55.0,Female,San Antonio,2409.3,15,60,9
+122557,48.0,Female,Chicago,1308.78,20,49,2
+411070,27.0,Male,Los Angeles,2724.77,30,95,2
+615670,50.0,Male,New York,6970.11,27,43,5
+501273,70.0,Female,Chicago,5155.13,10,10,10
+986658,63.0,Female,Houston,4394.28,8,41,6
+530222,44.0,Female,Chicago,3812.37,9,30,7
+449961,23.0,Male,San Diego,2385.69,4,20,5
+739807,44.0,Male,Phoenix,1342.99,47,65,1
+737925,45.0,Female,Los Angeles,696.26,7,17,3
+426554,39.0,Female,San Jose,6014.03,8,33,3
+572501,33.0,Female,New York,4021.53,2,93,8
+297647,27.0,Male,San Diego,8740.4,22,26,8
+682446,49.0,Female,Phoenix,6301.89,24,76,6
+765375,50.0,Male,San Antonio,9291.74,31,21,2
+203928,49.0,Male,San Antonio,3156.72,45,50,6
+891563,70.0,Male,Los Angeles,2904.16,30,39,8
+124346,60.0,Male,San Jose,5967.66,32,5,6
+596498,22.0,Female,San Jose,8011.87,33,75,10
+598770,21.0,Male,San Diego,9578.35,33,57,5
+454930,65.0,Male,San Jose,5105.11,38,70,4
+486148,43.0,Female,Philadelphia,9419.79,4,41,6
+747882,27.0,Female,San Antonio,2335.92,3,52,2
+686323,52.0,Male,Houston,5901.93,8,49,0
+783464,30.0,Female,San Jose,7574.11,1,1,3
+775421,60.0,Male,Houston,7288.04,42,15,10
+825585,20.0,Male,Chicago,4986.57,11,58,9
+274400,59.0,Male,San Diego,3998.72,24,2,0
+752929,47.0,Female,San Diego,8450.04,22,9,4
+146075,39.0,Female,Philadelphia,9581.26,8,24,1
+773300,26.0,Male,New York,8766.3,13,25,9
+487947,66.0,Female,New York,1960.87,16,39,5
+108616,56.0,Male,San Antonio,4799.87,11,61,5
+316133,48.0,Male,New York,5806.93,25,65,1
+237207,35.0,Male,Los Angeles,7739.74,47,13,7
+444762,30.0,Female,Philadelphia,7654.53,49,28,9
+473327,45.0,Male,Los Angeles,1901.88,49,96,2
+284745,23.0,Male,San Jose,6152.24,39,99,10
+106976,44.0,Female,Los Angeles,9170.11,33,64,1
+170330,29.0,Female,Chicago,5584.28,47,6,1
+516180,53.0,Male,Los Angeles,8538.32,5,61,1
+485708,63.0,Female,San Diego,3390.76,32,72,0
+591640,66.0,Male,Houston,8281.46,11,22,1
+591958,57.0,Female,Dallas,5020.92,49,55,3
+414823,32.0,Female,San Antonio,5064.78,25,3,8
+793313,51.0,Female,New York,1369.31,30,42,9
+608867,67.0,Male,Houston,3194.02,2,58,8
+170426,62.0,Female,Los Angeles,6921.61,26,33,1
+577396,61.0,Male,Philadelphia,4423.41,23,83,6
+101940,23.0,Male,Los Angeles,8173.34,23,-1,4
+311657,46.0,Female,Houston,7761.28,33,30,7
+793655,51.0,Male,Houston,5428.72,43,69,3
+483903,26.0,Female,Dallas,71.65,22,11,4
+339314,59.0,Male,San Jose,108.17,23,55,0
+462651,31.0,Male,Houston,5573.59,15,62,9
+644318,18.0,Male,Chicago,5564.19,27,66,0
+882154,29.0,Female,Los Angeles,4897.36,46,94,4
+806718,22.0,Male,Dallas,3380.19,45,43,3
+856133,23.0,Male,Dallas,5082.28,43,25,6
+837695,59.0,Male,San Jose,4236.26,6,25,2
+780493,58.0,Female,Los Angeles,4584.13,37,1,4
+305919,27.0,Female,Dallas,6384.31,47,23,10
+398681,36.0,Unknown,Philadelphia,644.25,26,55,3
+917450,19.0,Female,Phoenix,8119.93,19,83,9
+393857,61.0,Male,Dallas,4010.27,23,93,3
+595830,47.0,Female,Houston,4968.13,27,27,6
+809152,43.0,Male,Chicago,8026.52,12,29,0
+611909,21.0,Female,San Diego,9917.5,10,49,2
+770279,42.0,Female,New York,2287.28,16,95,7
+599464,62.0,Female,Los Angeles,3012.0,39,18,10
+397801,36.0,Female,New York,7866.49,49,42,6
+883069,36.0,Female,Dallas,5020.14,14,85,8
+109115,42.0,Male,San Jose,856.61,28,1,6
+917246,61.0,Female,San Diego,1890.47,43,31,8
+239121,53.0,Male,New York,6164.7,32,90,9
+440143,52.0,Male,New York,4469.13,44,2,5
+485594,61.0,Male,San Jose,9194.29,25,92,6
+697041,41.0,Female,Chicago,5417.0,28,50,10
+486641,56.0,Male,Dallas,9902.17,38,93,4
+963075,56.0,Female,San Diego,5348.85,5,20,10
+484008,65.0,Male,San Jose,7291.87,9,65,5
+972900,45.0,Male,Chicago,6472.65,43,59,9
+694968,52.0,Female,Philadelphia,4798.98,8,98,10
+565746,62.0,Female,Philadelphia,5738.6,34,95,6
+424805,40.0,Male,Chicago,9383.5,32,45,6
+243306,59.0,Male,San Diego,7863.89,42,7,5
+625073,44.0,Male,Philadelphia,4376.12,12,37,4
+539580,50.0,Male,Phoenix,8963.19,8,78,3
+893403,61.0,Female,Houston,5287.85,0,70,0
+305053,53.0,Female,Los Angeles,4863.76,7,18,5
+131486,27.0,Female,San Diego,8190.31,48,65,9
+260294,42.0,Female,Dallas,8755.23,9,29,2
+176621,23.0,Male,Philadelphia,8782.26,38,88,7
+572707,48.0,Female,San Jose,3173.45,34,51,2
+846626,60.0,Female,San Antonio,6405.38,7,62,8
+851065,68.0,Male,Phoenix,8423.4,16,84,10
+635806,40.0,Female,San Jose,1427.04,50,31,8
+739152,55.0,Male,Philadelphia,3442.86,15,3,9
+377868,69.0,Male,New York,9468.21,8,46,0
+580733,63.0,Male,Philadelphia,9984.05,25,52,3
+800249,59.0,Female,New York,9113.54,48,90,2
+461553,67.0,Female,San Diego,2566.14,28,87,2
+825673,69.0,Male,Phoenix,7776.18,35,68,4
+423355,23.0,Male,San Diego,6790.39,9,52,9
+524592,65.0,Female,Houston,4151.92,30,10,8
+738260,25.0,Male,Philadelphia,6732.66,4,4,5
+763451,18.0,Male,San Antonio,5481.26,38,82,-1
+664735,,Female,Chicago,6017.01,19,99,4
+724156,18.0,Female,Houston,8378.34,33,2,5
+744079,56.0,Female,Philadelphia,1729.63,45,33,2
+376797,26.0,Male,Chicago,2145.67,46,49,8
+920230,65.0,Male,Dallas,2710.3,49,23,10
+461786,39.0,Male,Dallas,4712.66,44,88,7
+849118,29.0,Female,Philadelphia,9280.13,21,62,7
+783247,47.0,Male,San Antonio,946.52,20,26,1
+507323,34.0,Female,Philadelphia,8009.54,22,18,2
+266262,57.0,Female,San Jose,4179.84,6,42,2
+251114,18.0,Female,Dallas,2702.88,33,5,4
+836623,42.0,Male,New York,3150.78,32,3,5
+851732,46.0,Male,Chicago,6330.85,8,43,2
+728357,44.0,Female,Houston,7599.93,25,86,1
+223111,42.0,Female,Houston,7371.83,44,81,0
+949122,43.0,Male,San Jose,3704.18,36,29,7
+551379,59.0,Male,Houston,7747.1,38,36,2
+488845,60.0,Female,San Jose,6853.33,1,61,3
+428162,19.0,Female,Phoenix,3116.82,45,37,9
+772125,18.0,Male,Philadelphia,7562.01,28,63,2
+873319,49.0,Male,San Jose,3382.95,0,80,0
+890684,62.0,Male,San Jose,3509.15,19,35,10
+117091,44.0,Male,San Diego,6462.2,48,34,9
+128213,40.0,Female,Chicago,7206.33,2,68,3
+359167,18.0,Male,Phoenix,588.51,33,3,8
+645391,,Male,New York,399.7,6,24,3
+930232,61.0,Male,Los Angeles,4638.35,44,76,1
+485319,47.0,Female,Houston,6772.18,37,70,0
+628816,39.0,Female,San Jose,3286.42,35,55,9
+618320,52.0,Male,123,5076.95,4,64,0
+167827,30.0,Male,New York,6239.6,13,97,5
+799948,61.0,Male,Chicago,1590.82,45,16,7
+356964,39.0,Female,Dallas,5705.74,19,89,1
+459442,19.0,Male,San Antonio,5332.66,4,31,6
+323388,26.0,Female,San Diego,8031.47,5,0,9
+237895,47.0,Female,San Diego,6093.13,31,78,10
+770522,27.0,Female,San Diego,663.6,19,2,1
+804814,29.0,Male,Dallas,1507.23,0,59,3
+787760,46.0,Female,Houston,5689.18,41,99,4
+711334,34.0,Female,Chicago,5861.72,25,2,6
+454080,32.0,Male,Phoenix,492.38,25,73,5
+615615,42.0,Male,San Antonio,4828.52,45,35,5
+175436,51.0,Male,San Diego,619.13,35,53,9
+125070,65.0,Male,Los Angeles,857.91,3,39,0
+899956,65.0,Male,Los Angeles,9954.17,14,93,1
+525936,55.0,Female,Dallas,7628.36,46,70,4
+950181,67.0,Female,Dallas,541.73,12,7,6
+333642,58.0,Female,Los Angeles,7930.59,11,99,9
+681748,27.0,Female,San Diego,1636.53,0,72,9
+929403,44.0,Male,New York,7613.09,1,96,0
+440826,27.0,Male,Phoenix,1783.81,40,37,4
+216629,37.0,Female,Philadelphia,9797.9,8,63,0
+113947,,Male,Dallas,8374.99,35,41,10
+207702,27.0,Female,San Jose,2.61,15,48,7
+551551,31.0,Male,Chicago,5814.62,34,56,5
+389803,66.0,Male,San Antonio,8463.1,50,70,4
+905531,46.0,Female,Dallas,1101.92,7,11,6
+124490,28.0,Male,San Antonio,8504.61,30,10,4
+434983,65.0,Male,Chicago,7143.25,5,47,7
+345937,38.0,Male,San Antonio,7196.42,25,94,3
+244904,43.0,Male,Houston,313.65,43,3,4
+984887,,Male,Los Angeles,4212.29,48,62,4
+480870,66.0,Male,San Jose,6701.25,34,91,7
+-1,25.0,Male,San Jose,2971.42,27,20,10
+412654,25.0,Male,San Antonio,7992.39,33,39,9
+227583,18.0,Male,Phoenix,4746.22,24,51,4
+595185,55.0,Female,Phoenix,1058.98,36,62,5
+437468,25.0,Female,San Antonio,7202.4,1,40,1
+495326,65.0,Male,San Antonio,1767.64,16,84,2
+493452,20.0,Male,Philadelphia,6606.61,17,87,4
+647277,68.0,Male,Houston,3715.24,46,80,7
+546192,38.0,Male,San Antonio,8423.17,15,36,7
+831538,47.0,Female,Philadelphia,3514.9,21,55,10
+564315,54.0,Male,San Jose,4121.85,11,47,9
+834657,66.0,Female,Chicago,9457.84,41,55,0
+252281,19.0,Female,Los Angeles,6716.97,34,80,8
+305871,61.0,Female,Los Angeles,790.0,34,84,5
+788770,48.0,Female,Philadelphia,5377.32,30,25,6
+544774,18.0,Male,San Diego,1228.29,36,81,10
+146398,31.0,Male,San Antonio,4438.67,10,38,4
+376332,56.0,Male,Phoenix,1416.73,27,16,6
+790981,32.0,Male,Los Angeles,4713.67,22,87,7
+808906,43.0,Female,Los Angeles,964.51,49,71,4
+476653,48.0,Male,New York,1406.73,37,45,4
+943279,55.0,Female,Philadelphia,3926.66,15,51,0
+616333,37.0,Female,San Jose,5025.07,44,81,9
+165707,45.0,Male,New York,2652.33,17,82,9
+372613,27.0,Female,San Diego,4484.53,45,63,3
+867979,39.0,Male,Philadelphia,6117.12,13,8,7
+412815,18.0,Female,San Diego,3182.63,9,64,4
+807133,32.0,Female,Dallas,8972.34,30,96,10
+564345,56.0,Male,Chicago,1989.88,25,66,3
+700360,62.0,Male,Phoenix,6680.84,27,77,7
+675803,42.0,Female,Dallas,5398.81,21,73,5
+263157,52.0,Female,Dallas,4447.76,7,2,3
+425640,39.0,Male,Chicago,5188.88,50,40,9
+408855,59.0,Male,Philadelphia,2804.84,27,61,8
+944340,36.0,Male,Phoenix,6349.73,2,36,7
+405912,47.0,Male,Houston,8516.75,39,53,8
+686197,51.0,Male,Los Angeles,3071.46,46,43,4
+850119,28.0,Female,New York,8601.71,47,24,4
+662396,44.0,Female,Los Angeles,9041.87,47,34,1
+240560,34.0,Female,Chicago,2276.58,0,67,2
+921064,69.0,Male,Houston,7524.21,5,92,8
+716987,19.0,Female,Chicago,526.93,40,31,8
+907560,25.0,Male,Chicago,6490.96,41,25,7
+888355,66.0,Female,San Diego,840.49,39,42,3
+997889,32.0,Female,San Antonio,3455.55,43,39,4
+412291,27.0,Male,Chicago,6188.08,7,93,1
+297577,63.0,Male,Houston,6712.23,7,9,0
+247329,68.0,Female,Phoenix,7311.55,41,64,1
+408062,65.0,Female,Los Angeles,1784.65,4,18,7
+362873,58.0,Male,San Jose,1289.76,24,27,5
+356664,50.0,Female,San Antonio,6998.39,7,46,10
+766229,54.0,Female,Phoenix,919.87,39,68,3
+144361,69.0,Male,San Antonio,7678.96,33,16,3
+241938,37.0,Female,Los Angeles,3250.26,18,67,0
+328492,70.0,Female,San Jose,3865.12,14,15,7
+924603,65.0,Female,Houston,3299.96,30,19,6
+446389,43.0,Female,San Jose,6719.66,6,75,10
+848882,32.0,Male,San Diego,3779.36,43,94,0
+409341,53.0,Female,San Diego,1651.26,26,22,2
+214878,68.0,Male,San Antonio,1222.0,2,60,3
+820778,50.0,Male,San Jose,7165.32,23,52,3
+395224,66.0,Male,San Jose,5824.01,47,26,9
+224510,26.0,Male,Dallas,891.62,46,28,0
+461517,27.0,Female,Phoenix,7544.96,9,76,10
+439350,21.0,Male,Los Angeles,2796.36,5,95,10
+865818,55.0,Female,Dallas,893.47,10,44,5
+160496,41.0,Female,Chicago,1037.42,5,14,9
+571139,53.0,Female,San Jose,3598.38,44,57,3
+328424,26.0,Female,Dallas,6081.44,23,56,10
+854475,29.0,Female,San Antonio,392.24,39,54,8
+577608,24.0,Male,Philadelphia,5353.3,24,19,3
+838275,49.0,Female,Los Angeles,5468.29,23,94,8
+211757,51.0,Female,San Jose,9744.8,11,84,1
+803918,35.0,Female,San Antonio,8928.89,8,87,1
+636175,45.0,Male,San Diego,9876.74,40,87,3
+458309,29.0,Male,Los Angeles,169.35,19,36,0
+633192,34.0,Male,San Antonio,474.75,-1,14,1
+618400,70.0,Female,Dallas,3313.18,40,91,4
+896339,35.0,Male,San Antonio,2474.76,0,64,7
+414677,24.0,Male,San Antonio,3657.47,3,82,3
+429017,62.0,Female,Philadelphia,7851.76,12,75,3
+245372,27.0,Female,Houston,988.72,39,75,7
+124105,70.0,Male,San Jose,4634.77,31,69,6
+476588,49.0,Female,Phoenix,7770.66,20,100,7
+999041,53.0,Female,Los Angeles,4997.08,45,24,4
+755057,66.0,Male,Houston,1073.15,1,44,6
+609375,32.0,Male,Philadelphia,6142.85,3,71,4
+234974,38.0,Female,Chicago,9932.94,30,76,9
+461944,32.0,Male,Dallas,741.69,27,20,6
+876150,69.0,Male,San Jose,6114.61,32,67,0
+222349,48.0,Male,New York,7407.55,30,63,2
+661625,22.0,Male,Phoenix,2750.66,40,75,3
+859585,36.0,Male,New York,9352.44,33,17,7
+925572,70.0,Female,Dallas,6048.9,46,74,10
+613235,54.0,Female,San Antonio,6211.97,14,51,5
+257521,40.0,Female,San Antonio,2301.68,31,67,3
+114096,36.0,Male,Houston,2179.27,18,50,1
+520218,51.0,Female,Los Angeles,9810.54,42,51,5
+295239,52.0,Female,San Jose,2872.42,26,31,2
+122913,37.0,Female,San Jose,2050.39,24,89,8
+705974,68.0,Male,San Antonio,5691.72,32,66,3
+466742,38.0,Male,San Antonio,563.86,13,22,9
+300654,23.0,Female,San Diego,8476.86,7,77,4
+642898,55.0,Male,Phoenix,6125.61,14,26,6
+963736,61.0,Male,San Antonio,2783.31,5,93,0
+786349,50.0,Female,San Jose,7028.25,16,20,10
+303122,22.0,Female,San Jose,7162.97,33,65,6
+859756,21.0,Female,Los Angeles,2375.85,31,0,7
+691230,63.0,Male,Chicago,8572.86,36,36,7
+556927,30.0,Male,Houston,5930.43,34,69,5
+174008,35.0,Female,Houston,2010.64,38,28,4
+851623,54.0,Male,New York,6287.34,49,97,0
+827170,33.0,Male,Los Angeles,5853.0,39,46,6
+387532,33.0,Female,San Antonio,6609.92,21,36,9
+486134,44.0,Male,San Diego,6037.51,-1,30,6
+918611,21.0,Female,San Antonio,6716.45,41,23,1
+907269,65.0,Female,San Antonio,1964.91,44,84,2
+894184,28.0,Female,Houston,5298.8,29,66,7
+433157,21.0,Female,New York,6797.0,48,33,4
+350653,23.0,Female,Phoenix,4701.96,24,44,2
+178134,59.0,Female,Houston,8268.48,42,21,3
+447065,27.0,Female,Dallas,3234.2,21,36,5
+308671,31.0,Male,Chicago,4286.67,3,35,10
+710323,41.0,Male,Los Angeles,5354.82,46,95,8
+604792,39.0,Female,Phoenix,1590.56,39,13,6
+160720,70.0,Female,Los Angeles,8148.7,18,22,9
+817266,29.0,Male,San Antonio,7363.74,49,90,1
+547266,50.0,Male,Chicago,6768.23,12,89,5
+246482,30.0,Male,San Antonio,5299.92,32,65,2
+634590,29.0,Female,Philadelphia,9059.99,20,21,3
+527336,31.0,Male,New York,7086.55,36,82,10
+766341,37.0,Male,Chicago,2537.92,22,83,6
+165310,52.0,Female,Dallas,7408.39,50,20,0
+364916,18.0,Female,Dallas,5362.13,15,65,0
+172575,55.0,Female,Los Angeles,6218.14,2,74,0
+527259,63.0,Male,New York,4049.27,25,29,1
+210565,62.0,Male,Houston,8768.26,40,80,6
+153042,48.0,Female,San Antonio,9620.17,0,62,9
+441178,60.0,Female,Dallas,3214.38,5,79,9
+178081,27.0,Male,San Jose,9297.53,0,19,0
+163772,61.0,Male,Philadelphia,4356.49,44,27,6
+536363,36.0,Male,San Diego,5487.51,46,7,2
+187586,26.0,Male,Philadelphia,4377.59,48,90,5
+393034,26.0,Female,Phoenix,8006.91,41,23,0
+137957,65.0,Female,San Diego,5221.15,10,89,2
+465327,49.0,Male,Chicago,248.68,22,100,3
+642763,46.0,Male,San Jose,5878.63,29,63,4
+653019,32.0,Male,Philadelphia,1794.87,17,89,8
+715278,55.0,Female,Phoenix,7465.76,8,90,0
+616318,55.0,Female,San Diego,4167.07,42,83,3
+318875,39.0,Male,Chicago,551.42,34,4,7
+780167,52.0,Female,Philadelphia,6439.2,42,64,9
+120021,24.0,Female,Houston,6209.19,47,38,0
+745770,46.0,Male,Philadelphia,5236.88,45,68,-1
+381450,35.0,Female,Dallas,2115.07,45,72,9
+994515,46.0,Male,Dallas,9136.26,3,78,0
+514222,69.0,Female,San Jose,5579.34,16,18,4
+512307,49.0,Male,San Diego,3624.58,0,36,1
+932278,30.0,Male,Houston,5751.01,33,8,1
+432397,18.0,Female,Chicago,6583.83,43,65,6
+105311,49.0,Male,Dallas,4885.34,26,10,9
+324306,20.0,Male,San Diego,9053.94,40,75,10
+944967,58.0,Female,Houston,1654.15,10,34,4
+706636,35.0,Male,San Diego,5057.15,12,15,5
+312278,45.0,Female,San Jose,5142.74,18,2,4
+212570,26.0,Male,Philadelphia,7564.68,23,10,6
+557681,19.0,Female,Philadelphia,1388.5,39,51,5
+421241,65.0,Male,New York,7680.84,0,41,0
+556387,35.0,Female,Philadelphia,5566.83,37,72,8
+759829,64.0,Male,Houston,6444.64,19,21,9
+174425,44.0,Male,Philadelphia,3749.63,2,44,8
+671580,59.0,Male,Los Angeles,5762.62,3,50,6
+451225,18.0,Male,Los Angeles,4709.07,49,10,1
+237117,48.0,Male,Houston,4605.78,11,33,2
+818100,30.0,Female,Philadelphia,3461.69,41,41,8
+796368,19.0,Male,San Jose,1990.08,12,9,4
+913596,42.0,Male,Los Angeles,7742.41,6,60,3
+279967,42.0,Female,Houston,3132.28,7,2,1
+602686,31.0,Female,San Diego,3149.01,50,78,9
+588627,55.0,Female,Dallas,8779.73,26,85,1
+113706,43.0,Male,Phoenix,184.5,40,66,3
+344363,56.0,Female,Phoenix,2257.64,17,93,7
+554323,58.0,Female,San Jose,246.78,20,78,5
+691470,55.0,Male,Dallas,7508.65,48,20,10
+599130,52.0,Female,Philadelphia,2361.79,31,96,7
+948404,58.0,Male,Dallas,8574.7,26,0,0
+845673,39.0,Male,Philadelphia,9796.05,24,3,1
+394363,60.0,Female,New York,9549.89,24,36,2
+857943,60.0,Male,Houston,6142.42,46,67,2
+525671,34.0,Male,Philadelphia,4893.87,5,33,6
+327690,69.0,Female,San Diego,6563.47,37,77,5
+527332,42.0,Male,Los Angeles,4334.01,0,46,6
+930518,69.0,Male,Los Angeles,9832.84,1,53,4
+726382,22.0,Female,Philadelphia,9172.93,48,52,10
+391070,52.0,Female,San Antonio,1058.41,38,55,6
+778824,54.0,Male,Dallas,824.15,4,69,0
+629829,34.0,Female,San Diego,6444.0,43,46,7
+932652,44.0,Female,Los Angeles,8633.6,18,68,1
+846439,62.0,Female,San Antonio,1095.27,47,34,9
+774433,47.0,Male,Chicago,9353.48,5,43,10
+861433,57.0,Female,Houston,9169.53,31,63,5
+140102,66.0,Female,San Diego,8601.81,7,67,9
+773326,60.0,Male,San Jose,high,43,88,7
+150353,40.0,Female,New York,3173.42,8,81,1
+922928,44.0,Male,Los Angeles,4137.03,22,28,3
+687230,56.0,Male,New York,5590.31,40,57,9
+443398,65.0,Male,Philadelphia,8556.55,14,13,3
+315580,67.0,Male,San Diego,5419.61,24,47,8
+600067,53.0,Male,San Antonio,4925.54,37,54,2
+276000,36.0,Female,Philadelphia,9610.46,23,10,1
+771390,57.0,Female,Dallas,1754.31,23,94,2
+507844,35.0,Male,Phoenix,8612.92,26,24,3
+606061,46.0,Male,Philadelphia,8600.64,8,3,6
+397179,62.0,Female,Philadelphia,4612.78,2,48,8
+126526,42.0,Female,Houston,8743.27,34,29,6
+755073,30.0,Female,Phoenix,4024.7,23,71,2
+821506,70.0,Female,Houston,2538.22,1,84,4
+975769,26.0,Female,Chicago,3591.68,46,89,3
+231301,38.0,Male,Chicago,3819.05,7,10,9
+442611,48.0,Male,Philadelphia,9972.08,45,24,8
+891839,18.0,Female,Chicago,9868.36,45,47,9
+780523,35.0,Female,San Antonio,5565.35,43,22,10
+450929,34.0,Female,Los Angeles,2087.85,0,28,10
+239324,30.0,Female,New York,1713.23,16,37,10
+529161,53.0,Female,Houston,7133.87,17,59,6
+451085,38.0,Female,San Diego,6695.77,42,50,4
+938037,65.0,Female,Dallas,4488.64,25,26,6
+717478,44.0,Male,San Diego,3770.14,8,7,2
+102491,42.0,Male,San Antonio,5059.85,13,40,0
+926702,68.0,Male,Philadelphia,8195.82,19,40,4
+674229,44.0,Male,Houston,4782.56,48,38,3
+825590,31.0,Male,Los Angeles,6136.67,50,71,3
+797056,22.0,Female,New York,1131.93,3,97,2
+546597,25.0,Male,San Diego,906.91,50,18,3
+165179,69.0,Female,Chicago,2527.77,3,24,0
+968742,25.0,Female,Los Angeles,6183.88,44,22,8
+644898,52.0,Male,Los Angeles,3626.39,6,87,2
+322646,49.0,Female,Houston,6444.68,1,44,6
+704861,49.0,Male,New York,8915.5,49,12,4
+620806,19.0,Male,San Diego,8863.52,37,92,0
+376751,65.0,Male,San Jose,6479.41,49,47,5
+748956,67.0,Male,San Jose,4083.38,22,93,8
+210856,69.0,Male,Los Angeles,6520.52,39,0,4
+777313,63.0,Female,Philadelphia,7699.45,20,91,2
+806463,68.0,Male,San Diego,995.02,0,52,7
+687559,21.0,Male,New York,3587.81,17,10,9
+101364,27.0,Male,Los Angeles,1963.61,32,85,7
+653251,41.0,Female,Phoenix,677.02,35,17,7
+365255,36.0,Female,Chicago,6455.03,6,49,5
+636913,60.0,Female,Phoenix,1572.55,36,57,1
+535605,50.0,Male,San Diego,206.75,31,68,5
+143255,27.0,Female,123,4664.63,44,97,3
+334320,24.0,Female,San Antonio,7858.04,40,70,0
+165997,20.0,Unknown,Los Angeles,6634.6,0,2,1
+830863,40.0,Female,Chicago,5121.23,23,1,1
+314097,60.0,Male,San Diego,7340.98,15,92,4
+543351,37.0,Male,Dallas,6815.16,20,44,3
+974954,47.0,Male,San Diego,714.04,49,14,5
+746210,41.0,Male,Houston,589.56,1,11,7
+696471,23.0,Female,Phoenix,8081.77,19,9,2
+124631,32.0,Female,Dallas,800.46,24,90,7
+415941,44.0,Male,New York,5423.46,38,63,2
+744167,29.0,Female,Phoenix,9827.87,7,28,3
+882010,32.0,Male,San Antonio,6939.92,32,65,2
+261702,61.0,Female,New York,8213.11,5,42,2
+449474,64.0,Female,New York,3161.99,45,96,0
+797398,25.0,Male,San Jose,8207.93,35,19,10
+658992,22.0,Female,San Antonio,628.05,31,72,2
+411284,23.0,Male,Dallas,9597.84,18,54,9
+215845,24.0,Female,Philadelphia,7732.06,39,78,1
+638564,20.0,Male,San Antonio,6662.92,49,78,2
+937839,64.0,Male,Los Angeles,4919.98,2,27,5
+644519,49.0,Male,Houston,7844.55,31,97,6
+894197,21.0,Male,Phoenix,5602.73,19,6,9
+570380,30.0,Male,San Diego,6265.1,16,84,8
+925901,66.0,Male,Los Angeles,1450.71,13,55,9
+592807,23.0,Male,San Antonio,7990.08,9,54,9
+751188,64.0,Male,Chicago,2360.5,47,72,8
+191855,49.0,Female,San Antonio,3930.36,16,67,5
+111924,18.0,Male,Dallas,3661.82,47,87,5
+428112,66.0,Male,Houston,5512.55,27,11,5
+565044,36.0,Male,San Antonio,8988.62,43,40,10
+787465,31.0,Female,Los Angeles,1615.57,1,0,0
+219805,29.0,Female,San Jose,9201.0,26,50,5
+879540,20.0,Female,San Jose,5939.32,38,68,4
+926155,34.0,Female,Phoenix,1505.23,37,37,3
+352680,45.0,Male,San Antonio,1553.69,32,44,0
+795810,42.0,Male,Chicago,9425.48,42,76,7
+524082,63.0,Male,San Antonio,5580.2,21,55,9
+530869,51.0,Female,San Antonio,1318.13,7,33,4
+308397,37.0,Female,Phoenix,1573.9,16,30,2
+340293,60.0,Female,Los Angeles,5522.57,49,45,7
+309952,67.0,Male,San Diego,7133.22,14,51,3
+386907,37.0,Female,Phoenix,9359.14,40,85,9
+468262,35.0,Male,San Antonio,497.06,50,81,2
+488961,56.0,Male,New York,6552.69,4,33,1
+180378,68.0,Female,Dallas,1922.54,3,34,0
+487610,42.0,Female,Chicago,4636.78,46,49,5
+694424,29.0,Male,Los Angeles,9399.17,38,42,10
+370480,34.0,Male,Phoenix,2816.36,5,87,1
+606778,29.0,Male,San Jose,9794.04,48,25,9
+191807,36.0,Unknown,San Jose,1913.92,41,80,0
+870034,40.0,Female,New York,5123.4,35,66,10
+946956,29.0,Female,San Jose,6239.08,12,8,7
+543644,54.0,Male,Los Angeles,4531.6,31,22,8
+457836,18.0,Male,Philadelphia,4400.0,16,28,5
+507720,19.0,Female,Phoenix,5825.49,1,80,10
+468780,44.0,Male,New York,7437.81,-1,1,4
+684791,41.0,Female,New York,8260.2,48,56,6
+213609,34.0,Female,San Jose,7042.59,7,91,9
+550649,41.0,Male,Phoenix,2721.58,13,1,10
+152515,56.0,Male,San Antonio,8249.16,0,-1,2
+888189,57.0,Female,Phoenix,9429.3,11,68,9
+269837,27.0,Female,San Antonio,9023.52,9,60,8
+944661,60.0,Female,San Diego,5811.21,19,30,7
+712540,69.0,Male,Los Angeles,3459.4,26,70,3
+-1,60.0,Female,Chicago,3820.3,49,41,0
+320501,20.0,Male,123,823.82,7,79,6
+987905,43.0,Male,Los Angeles,791.49,13,59,10
+488532,39.0,Female,Chicago,9702.97,3,71,6
+948832,28.0,Female,New York,8666.73,13,12,6
+568799,63.0,Female,San Antonio,8626.48,12,13,3
+107859,25.0,Male,Philadelphia,4205.79,32,41,1
+332504,29.0,Male,Phoenix,4118.03,33,14,8
+132024,33.0,Female,Chicago,6628.77,32,37,6
+959681,50.0,Female,Philadelphia,9033.2,25,95,3
+108626,32.0,Male,San Antonio,7961.95,20,88,9
+913992,32.0,Male,Los Angeles,7337.54,29,25,10
+262770,69.0,Male,Houston,7562.07,17,75,5
+191251,40.0,Male,San Jose,8759.24,19,6,7
+426983,36.0,Female,Philadelphia,502.25,26,70,1
+945576,41.0,Male,Dallas,3490.08,16,98,0
+273039,48.0,Female,San Jose,1648.61,4,16,3
+535849,28.0,Male,Dallas,5274.8,39,26,4
+431167,63.0,Female,Philadelphia,9298.86,29,26,6
+618518,54.0,Male,Chicago,6965.1,41,65,9
+363992,66.0,Female,Los Angeles,5432.76,10,80,10
+274895,45.0,Male,Philadelphia,4024.04,42,33,7
+128097,55.0,Male,Phoenix,7177.73,31,98,6
+318311,25.0,Male,San Antonio,216.27,24,88,6
+470861,59.0,Female,San Jose,5379.91,27,12,10
+500337,19.0,Female,Dallas,6268.59,44,13,8
+933526,33.0,Female,San Antonio,4826.6,4,36,5
+-1,53.0,Female,Houston,931.45,29,30,2
+540482,63.0,Male,New York,3361.62,36,32,0
+948925,63.0,Female,San Jose,6104.91,47,58,4
+504970,70.0,Male,Los Angeles,3824.72,42,64,10
+411306,41.0,Female,Phoenix,8143.64,11,29,3
+382952,19.0,Female,Houston,7089.25,19,27,3
+170437,30.0,Female,Phoenix,2275.17,48,43,4
+646384,38.0,Female,Houston,6765.2,3,28,6
+362067,19.0,Male,San Antonio,66.95,47,45,4
+490242,28.0,Female,Houston,7241.31,37,65,2
+657761,40.0,Female,San Diego,3986.01,6,79,3
+576284,54.0,Female,Chicago,8944.85,3,33,6
+841296,25.0,Male,San Diego,6132.0,40,54,6
+825317,25.0,Female,New York,high,35,100,8
+427373,23.0,Male,San Antonio,3389.81,34,35,9
+699193,23.0,Male,Phoenix,7382.47,3,100,8
+122288,55.0,Male,Los Angeles,8710.02,4,47,1
+393077,28.0,Male,Los Angeles,8708.08,0,39,1
+903463,57.0,Male,Phoenix,5227.51,15,0,4
+796187,26.0,Male,Phoenix,7974.61,26,95,-1
+629217,49.0,Female,Phoenix,9032.13,26,3,4
+802322,49.0,Female,Phoenix,7271.17,32,36,2
+208206,22.0,Female,San Diego,5941.16,28,44,0
+896389,38.0,Male,Chicago,6785.82,1,38,5
+308214,30.0,Female,Chicago,5501.19,16,81,4
+549004,24.0,Female,Los Angeles,2734.47,30,63,1
+106665,64.0,Female,New York,8199.4,5,25,0
+576587,21.0,Female,Dallas,4172.18,23,20,9
+250537,18.0,Male,New York,4444.84,4,33,1
+505094,23.0,Male,San Jose,3058.62,24,91,6
+797509,66.0,Male,Houston,3851.03,0,74,1
+843276,38.0,Male,Dallas,1844.82,11,16,9
+529308,41.0,Female,Chicago,4825.92,34,9,6
+421372,38.0,Male,San Jose,234.32,15,28,3
+834689,21.0,Male,San Jose,4380.76,40,20,8
