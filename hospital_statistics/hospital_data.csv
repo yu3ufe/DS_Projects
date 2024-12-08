@@ -1,0 +1,1001 @@
+arrival_date,arrival_time,treatment_duration,treatment_duration_unit,doctor_availability,equipment_usage,equipment_usage_unit
+2024-11-04,05:16:30 PM,11.31,hours,,2.18,hours
+2024-10-30,06:08:57,225.3,minutes,False,3.71,hours
+2024-11-20,04:54:27 AM,235.89,minutes,False,8.07,hours
+2024-11-12,23:46:32,99.08,hours,,4.41,minutes
+2024-11-09,04:19:57 PM,228.55,minutes,,17.89,minutes
+2024-10-28,21:57:24,165.94,hours,True,16.32,minutes
+2024-11-03,00:15:58,115.75,minutes,False,4.27,hours
+2024-11-23,02:22:08 PM,252.54,minutes,,3.81,hours
+2024-11-22,06:20:37,186.7,hours,,11.6,hours
+2024-10-28,11:24:58 PM,102.13,minutes,True,19.75,hours
+2024-11-03,06:17:26,10.89,hours,,21.94,minutes
+2024-11-05,07:41:52 AM,174.02,minutes,True,22.12,minutes
+2024-11-20,08:47:08 AM,290.59,minutes,,15.09,hours
+2024-11-20,08:49:50 PM,59.49,minutes,True,20.78,hours
+2024-11-11,19:31:50,212.6,minutes,,22.41,hours
+2024-11-12,09:28:13 AM,238.94,hours,False,19.28,hours
+2024-11-04,08:47:32,280.18,hours,True,2.62,hours
+2024-11-07,01:47:42 PM,104.35,hours,,1.79,hours
+2024-11-27,05:13:12,278.73,minutes,False,2.69,minutes
+2024-11-12,20:05:01,78.66,hours,False,21.69,hours
+2024-11-06,20:29:13,10.05,minutes,False,10.03,minutes
+2024-11-20,01:41:21 AM,575.79,minutes,False,43.62,hours
+2024-11-25,14:24:40,198.36,minutes,True,17.75,hours
+2024-11-16,11:43:20 PM,231.4,hours,False,22.25,hours
+2024-10-30,06:52:47 PM,52.68,hours,,8.59,hours
+2024-11-26,13:02:44,227.13,minutes,,16.48,minutes
+2024-11-25,11:06:18,229.03,minutes,,17.69,minutes
+2024-11-06,10:32:36 PM,292.27,minutes,,21.53,minutes
+2024-11-03,08:22:25,32.76,minutes,False,1.43,minutes
+2024-11-21,07:55:46 AM,173.73,hours,,5.55,hours
+2024-11-20,02:26:30 PM,208.78,hours,,13.51,minutes
+2024-11-01,01:34:53 PM,202.74,minutes,True,16.71,minutes
+2024-11-14,05:18:22,298.83,hours,,21.75,hours
+2024-11-11,02:52:18 AM,209.54,minutes,False,10.06,hours
+2024-11-13,09:53:58 AM,176.07,hours,,7.94,minutes
+2024-11-23,06:34:19 AM,252.21,minutes,,16.9,hours
+2024-10-29,02:05:43 PM,202.6,minutes,,8.25,hours
+2024-11-22,01:48:49 AM,264.26,minutes,False,8.26,hours
+2024-11-21,12:29:28,33.17,hours,,3.63,minutes
+2024-11-08,22:04:31,296.1,hours,True,22.7,minutes
+2024-11-24,07:23:17 PM,267.89,minutes,False,10.97,hours
+2024-11-01,08:38:00 PM,209.21,hours,True,17.68,minutes
+2024-11-06,04:37:55,54.99,minutes,True,5.11,hours
+2024-11-08,09:19:16 PM,33.38,minutes,,5.63,hours
+2024-10-29,17:53:49,64.98,hours,,22.21,hours
+2024-11-09,02:11:35 AM,193.08,hours,,6.56,minutes
+2024-11-18,10:36:11 AM,115.49,minutes,True,18.12,minutes
+2024-11-05,01:45:16 AM,210.04,minutes,False,16.53,minutes
+2024-11-07,12:39:03,40.92,minutes,True,23.03,hours
+2024-11-05,12:10:48,189.05,hours,False,10.31,hours
+2024-11-04,01:27:08 PM,11.48,hours,False,22.27,minutes
+2024-11-08,09:48:51,63.8,hours,,16.94,minutes
+2024-11-18,06:20:33 AM,211.6,minutes,True,9.02,hours
+2024-11-20,03:44:49 PM,75.68,minutes,False,10.62,minutes
+2024-11-18,09:17:06 PM,79.46,minutes,False,6.37,hours
+2024-11-28,08:42:50 AM,18.98,minutes,,3.55,hours
+2024-11-08,04:41:21 AM,320.59,minutes,False,38.62,hours
+2024-11-19,14:10:32,277.9,hours,True,22.72,minutes
+2024-11-19,06:44:29,283.45,minutes,,9.85,hours
+2024-11-10,07:42:28,153.53,hours,True,20.46,hours
+2024-11-12,07:17:36,258.93,hours,,17.18,minutes
+2024-11-17,01:01:10,90.99,minutes,,21.4,hours
+2024-10-28,06:41:21,437.76,minutes,True,43.39,hours
+2024-11-12,23:41:21,476.02,minutes,False,37.62,hours
+2024-11-08,10:41:21 PM,314.24,minutes,False,33.71,hours
+2024-11-07,01:41:21 AM,595.95,minutes,False,32.25,hours
+2024-11-28,12:44:25,148.16,minutes,,14.39,hours
+2024-11-01,09:58:18 AM,295.52,hours,,16.8,minutes
+2024-11-06,05:59:33,277.61,hours,,12.27,hours
+2024-11-04,13:09:02,271.49,hours,False,14.21,hours
+2024-11-13,02:11:30 AM,93.59,hours,False,15.92,hours
+2024-11-27,04:26:46 AM,21.04,minutes,True,22.59,minutes
+2024-11-09,11:29:02 PM,45.04,hours,,8.71,minutes
+2024-11-27,10:57:53 AM,178.67,minutes,False,8.28,hours
+2024-11-21,11:10:29 AM,37.7,hours,,12.0,minutes
+2024-10-30,13:05:34,235.81,minutes,False,13.79,minutes
+2024-11-16,20:41:21,587.13,minutes,True,26.13,hours
+2024-11-27,10:04:51,203.45,hours,,1.6,hours
+2024-11-15,04:52:00 AM,279.27,hours,True,21.66,minutes
+2024-11-28,15:09:20,57.23,hours,False,18.64,minutes
+2024-11-11,05:40:37,222.9,minutes,True,1.41,hours
+2024-11-14,04:58:44 AM,130.75,hours,True,1.61,minutes
+2024-11-20,19:26:03,247.66,hours,False,20.13,hours
+2024-11-25,17:08:49,231.27,hours,True,14.18,minutes
+2024-11-06,09:41:27,97.32,minutes,,19.89,minutes
+2024-11-18,10:29:18,282.54,hours,True,22.5,minutes
+2024-11-24,04:30:51,19.59,minutes,,3.3,minutes
+2024-10-29,16:47:43,243.32,hours,,10.98,minutes
+2024-11-18,10:01:35 AM,229.28,hours,,17.19,hours
+2024-11-04,16:59:32,73.64,hours,False,17.67,hours
+2024-11-27,15:44:10,231.09,minutes,False,10.71,minutes
+2024-11-09,12:28:28 AM,277.12,minutes,True,6.49,minutes
+2024-11-13,06:35:20 PM,147.64,hours,,2.54,hours
+2024-11-15,12:33:25,50.98,hours,,11.95,hours
+2024-11-17,11:35:16 AM,110.81,minutes,,11.98,minutes
+2024-11-01,18:28:04,296.86,hours,True,11.85,hours
+2024-11-05,10:06:14 AM,120.3,hours,,10.24,minutes
+2024-10-30,18:04:30,78.03,minutes,False,1.31,minutes
+2024-11-14,10:39:22 AM,134.64,hours,,18.52,minutes
+2024-11-09,16:50:54,246.15,hours,True,18.54,minutes
+2024-11-08,11:09:15,170.86,minutes,True,6.85,hours
+2024-11-11,08:15:58 PM,67.97,minutes,True,10.13,minutes
+2024-11-09,04:18:09 PM,163.46,minutes,False,21.24,minutes
+2024-11-21,11:41:21 PM,572.14,minutes,False,37.55,hours
+2024-11-15,23:50:42,284.38,minutes,True,18.18,minutes
+2024-11-04,19:38:35,200.02,hours,False,7.26,hours
+2024-11-09,03:34:50,277.64,hours,,16.41,minutes
+2024-11-17,20:41:21,433.83,minutes,True,38.37,hours
+2024-11-14,01:38:23 AM,102.7,minutes,False,13.08,hours
+2024-10-30,08:53:02 PM,17.44,hours,False,14.51,minutes
+2024-11-27,01:36:19,42.61,hours,,10.55,minutes
+2024-11-12,06:38:48 AM,115.21,minutes,True,3.89,hours
+2024-11-24,09:19:21 AM,48.95,minutes,,15.8,hours
+2024-11-09,02:52:26 AM,73.18,hours,False,9.51,hours
+2024-10-28,08:41:21 PM,514.8,minutes,False,41.56,hours
+2024-11-01,01:17:20,133.39,minutes,False,1.27,hours
+2024-10-28,09:12:26 PM,42.42,hours,,16.23,minutes
+2024-11-06,12:06:24 AM,128.86,minutes,False,19.99,hours
+2024-11-05,18:37:27,173.5,minutes,True,8.33,hours
+2024-11-04,12:15:37 PM,299.89,hours,,17.08,minutes
+2024-11-27,10:06:51,253.36,minutes,,4.02,minutes
+2024-11-17,02:52:05,198.69,hours,,19.04,hours
+2024-11-23,02:09:45 PM,127.96,hours,,2.92,minutes
+2024-11-23,20:47:12,179.11,hours,True,16.79,minutes
+2024-10-29,04:29:15,158.21,hours,,3.92,minutes
+2024-11-02,02:05:19 PM,296.97,hours,False,15.2,minutes
+2024-11-27,22:46:36,22.23,minutes,True,19.3,minutes
+2024-10-29,17:51:52,278.02,minutes,True,2.91,minutes
+2024-11-09,01:47:15,234.3,minutes,False,15.3,hours
+2024-11-19,02:29:35,35.13,minutes,False,4.54,minutes
+2024-11-02,18:53:59,247.11,hours,True,9.88,minutes
+2024-11-07,00:41:21,312.76,minutes,False,45.54,hours
+2024-10-30,12:42:46 PM,50.2,hours,True,19.8,minutes
+2024-10-29,02:41:21 AM,597.94,minutes,False,32.45,hours
+2024-11-14,08:04:20 AM,127.16,hours,True,19.99,hours
+2024-11-06,06:49:37 AM,75.95,minutes,,18.06,hours
+2024-11-17,07:46:06 PM,79.46,minutes,False,10.03,hours
+2024-11-14,06:17:08,127.77,minutes,True,14.16,hours
+2024-11-11,05:15:11,155.84,hours,False,11.26,hours
+2024-11-19,01:52:54 PM,168.07,hours,False,8.26,hours
+2024-11-01,07:27:44 PM,91.82,minutes,False,14.24,hours
+2024-11-14,05:55:30 PM,17.64,hours,False,18.55,hours
+2024-11-03,08:47:50,260.0,minutes,,6.51,minutes
+2024-11-25,04:41:41,88.52,hours,,4.43,minutes
+2024-11-25,23:10:20,213.47,hours,False,23.99,minutes
+2024-11-08,10:52:12,296.67,hours,True,9.15,hours
+2024-11-14,08:05:25,87.83,hours,False,15.87,minutes
+2024-11-11,10:27:58 PM,233.87,minutes,False,3.78,hours
+2024-11-20,10:00:32,255.07,hours,False,14.2,hours
+2024-11-28,12:06:20 PM,245.16,hours,True,8.45,minutes
+2024-11-15,12:49:18 PM,185.56,hours,,11.33,hours
+2024-11-24,05:41:21 AM,581.2,minutes,True,38.5,hours
+2024-11-21,19:39:46,115.83,minutes,False,3.13,hours
+2024-11-20,04:34:54 PM,15.59,hours,False,17.82,hours
+2024-11-02,09:16:49,146.24,minutes,,10.07,hours
+2024-11-09,12:01:37,120.79,minutes,True,5.73,hours
+2024-11-10,16:45:03,51.68,hours,True,23.38,minutes
+2024-11-03,10:34:19,158.15,minutes,False,23.89,minutes
+2024-11-16,10:10:12,196.96,minutes,False,19.06,hours
+2024-11-17,02:50:56,259.55,hours,False,13.59,hours
+2024-11-12,11:16:52 PM,41.24,minutes,False,5.51,minutes
+2024-10-31,05:13:37 PM,278.1,minutes,,2.48,minutes
+2024-11-23,07:25:04 AM,51.38,hours,True,22.67,minutes
+2024-10-29,08:58:55,137.06,hours,,22.1,minutes
+2024-11-21,03:19:45 PM,209.93,minutes,,12.83,hours
+2024-11-19,06:19:18,28.63,minutes,True,3.74,hours
+2024-11-06,03:11:35 AM,135.53,hours,,15.64,hours
+2024-11-07,17:48:10,34.31,hours,True,17.21,hours
+2024-11-03,09:33:15,272.91,minutes,True,11.19,hours
+2024-11-12,18:14:20,202.66,minutes,,15.67,minutes
+2024-11-02,12:38:40 PM,286.78,hours,,21.5,hours
+2024-10-29,02:13:47,268.12,hours,,9.55,hours
+2024-11-21,04:46:24 AM,181.39,minutes,,12.69,minutes
+2024-11-20,23:37:33,45.79,minutes,True,8.06,hours
+2024-11-21,09:26:38,16.72,minutes,,4.62,hours
+2024-11-21,11:29:58 AM,226.54,hours,True,5.96,hours
+2024-11-25,03:20:16 PM,291.33,minutes,,11.37,hours
+2024-11-18,06:33:17,220.86,minutes,False,17.8,minutes
+2024-11-21,11:11:12 PM,276.57,minutes,False,16.51,minutes
+2024-10-31,06:00:02 PM,155.33,minutes,True,5.16,hours
+2024-11-16,01:24:32 PM,196.2,minutes,,15.58,minutes
+2024-11-07,09:48:22,268.74,minutes,False,4.66,minutes
+2024-11-15,02:46:09 PM,222.72,hours,False,9.86,minutes
+2024-11-25,09:42:53 AM,14.71,minutes,True,8.16,minutes
+2024-11-21,02:12:06 AM,46.41,minutes,False,16.97,minutes
+2024-11-28,15:35:55,212.19,minutes,True,12.17,minutes
+2024-11-21,23:04:30,90.91,hours,False,11.98,minutes
+2024-11-08,01:51:59,45.29,hours,False,13.8,minutes
+2024-10-30,07:09:53 PM,209.94,minutes,False,1.43,minutes
+2024-11-28,12:31:13,287.23,minutes,,20.6,hours
+2024-11-05,08:27:12,18.03,minutes,True,9.43,hours
+2024-11-19,12:03:49 PM,22.78,hours,,1.14,hours
+2024-11-26,02:55:29,29.16,minutes,True,7.45,minutes
+2024-11-09,04:46:16 AM,61.28,minutes,False,4.52,minutes
+2024-11-11,04:07:38,83.04,hours,False,11.2,minutes
+2024-11-20,01:16:59 AM,195.21,minutes,True,6.13,minutes
+2024-11-16,21:49:30,27.76,minutes,,23.66,minutes
+2024-11-21,08:57:30 PM,58.05,hours,,11.75,minutes
+2024-10-29,15:42:29,132.62,minutes,False,16.21,minutes
+2024-11-16,08:28:31 PM,287.11,hours,False,8.18,minutes
+2024-11-22,10:21:27 PM,106.1,hours,False,9.46,minutes
+2024-11-22,05:27:32,264.21,hours,True,2.07,minutes
+2024-11-24,05:19:03 PM,275.71,minutes,False,14.47,minutes
+2024-11-20,03:23:02 PM,184.83,minutes,False,18.23,minutes
+2024-11-06,07:25:09,135.48,minutes,False,3.18,hours
+2024-11-27,03:48:39,293.49,minutes,,13.45,hours
+2024-11-04,18:39:18,275.09,hours,False,2.5,hours
+2024-11-02,03:06:35,164.02,minutes,False,6.2,minutes
+2024-10-30,21:26:41,261.26,minutes,False,5.45,hours
+2024-11-23,23:10:19,216.47,minutes,,16.18,hours
+2024-11-13,12:30:33,243.94,hours,False,6.28,minutes
+2024-10-29,12:40:06 PM,97.67,hours,True,15.26,minutes
+2024-10-29,04:10:28,88.54,hours,,6.29,hours
+2024-11-12,07:52:56 PM,254.57,minutes,,13.03,hours
+2024-11-02,00:20:35,236.05,hours,,3.21,minutes
+2024-11-07,01:03:35 PM,38.63,minutes,,12.34,minutes
+2024-11-13,20:27:59,44.5,minutes,True,17.01,hours
+2024-11-11,10:14:13 AM,136.45,hours,True,17.81,hours
+2024-11-24,08:04:25 PM,202.03,minutes,,3.03,hours
+2024-11-25,12:48:51 PM,118.12,minutes,,7.32,hours
+2024-11-28,11:42:41,295.87,hours,True,11.87,minutes
+2024-11-10,02:11:08 PM,65.0,minutes,False,10.99,minutes
+2024-11-24,20:36:37,167.72,minutes,,1.67,minutes
+2024-10-29,12:34:11,132.59,hours,True,10.01,hours
+2024-11-01,03:35:12 PM,25.24,minutes,True,16.88,minutes
+2024-11-09,04:02:34,194.97,hours,,1.63,minutes
+2024-11-15,11:32:37,244.55,hours,False,3.98,hours
+2024-11-08,11:41:13 PM,79.24,hours,True,19.83,hours
+2024-11-03,12:41:19 PM,197.93,hours,,19.97,hours
+2024-11-23,02:34:59,60.14,minutes,True,3.61,hours
+2024-11-24,02:23:46,63.61,minutes,False,19.44,minutes
+2024-11-15,12:52:50,54.3,hours,,10.92,minutes
+2024-11-10,06:07:25 PM,130.0,minutes,True,3.37,minutes
+2024-10-29,12:08:28,194.18,hours,,12.73,hours
+2024-11-08,09:24:45,36.61,hours,False,11.02,minutes
+2024-11-27,12:04:20 AM,153.05,minutes,False,12.47,hours
+2024-10-28,17:57:47,205.94,minutes,False,12.33,hours
+2024-11-03,10:36:21,254.18,hours,True,7.79,hours
+2024-11-11,11:40:19 AM,141.78,minutes,False,4.43,minutes
+2024-11-27,09:56:35,161.99,minutes,True,7.75,minutes
+2024-11-01,10:52:35 PM,139.63,hours,,19.11,minutes
+2024-11-28,08:40:34 AM,80.75,hours,,4.04,minutes
+2024-11-09,12:27:18 PM,261.15,minutes,False,15.12,hours
+2024-11-03,08:07:04,113.82,hours,False,22.55,minutes
+2024-11-18,02:32:25,219.44,hours,False,10.3,hours
+2024-11-03,00:09:59,233.46,minutes,,3.67,minutes
+2024-11-15,04:57:23 PM,244.34,minutes,True,12.79,hours
+2024-11-08,16:45:41,150.75,hours,,17.53,hours
+2024-11-25,03:16:45 PM,268.54,minutes,False,4.73,hours
+2024-11-07,18:15:00,171.52,minutes,True,4.93,hours
+2024-11-26,04:28:56 AM,283.55,minutes,False,3.61,hours
+2024-11-24,00:45:44,128.66,minutes,False,4.68,minutes
+2024-11-06,11:24:30 PM,43.03,minutes,False,2.85,minutes
+2024-11-16,07:04:57 AM,152.52,hours,,1.46,minutes
+2024-11-19,14:14:18,57.53,hours,,18.61,hours
+2024-11-09,08:57:23 PM,261.13,hours,False,22.27,minutes
+2024-11-05,13:47:34,197.05,minutes,False,10.08,hours
+2024-11-12,13:33:34,99.98,minutes,,14.01,hours
+2024-11-03,00:34:35,125.12,hours,True,16.38,hours
+2024-10-30,16:13:08,209.69,hours,,2.82,hours
+2024-10-29,01:57:23,65.44,hours,,10.64,minutes
+2024-11-15,11:44:46 PM,18.82,minutes,False,4.8,minutes
+2024-10-31,10:20:33,26.12,minutes,,19.85,hours
+2024-11-04,19:40:47,113.44,hours,True,6.92,hours
+2024-11-27,04:41:03 AM,138.5,hours,True,1.6,minutes
+2024-11-11,08:07:58,160.71,hours,,17.67,hours
+2024-10-28,11:37:27 PM,272.84,hours,True,21.19,minutes
+2024-11-25,09:44:54,239.66,hours,,19.04,hours
+2024-11-19,00:38:05,154.54,hours,True,21.75,hours
+2024-10-30,02:32:46 AM,207.93,minutes,,14.74,hours
+2024-11-13,15:40:31,156.75,minutes,,9.45,minutes
+2024-11-02,15:55:41,16.73,hours,True,12.41,hours
+2024-11-15,19:00:56,26.07,hours,True,23.64,hours
+2024-11-13,18:34:31,252.04,hours,,16.18,hours
+2024-11-06,10:39:41 AM,73.06,minutes,False,21.55,minutes
+2024-11-12,20:00:53,229.09,minutes,True,12.2,hours
+2024-11-07,06:04:00 AM,130.22,hours,True,21.3,hours
+2024-11-04,12:15:17 AM,119.6,hours,,18.22,hours
+2024-11-18,10:15:04,44.73,hours,,14.47,minutes
+2024-10-30,01:21:26 AM,181.43,minutes,,10.55,hours
+2024-11-11,08:27:58 PM,212.31,minutes,True,23.61,minutes
+2024-11-24,01:19:55 AM,157.2,hours,True,15.86,minutes
+2024-11-26,04:16:53,141.93,minutes,True,16.2,minutes
+2024-11-03,03:37:54,248.63,hours,False,11.08,hours
+2024-11-05,08:38:55 AM,256.63,minutes,False,13.19,hours
+2024-11-13,10:35:35 PM,40.58,hours,True,15.29,minutes
+2024-11-09,16:32:50,46.59,hours,True,21.42,hours
+2024-11-24,20:35:24,102.24,hours,,20.31,hours
+2024-11-19,00:16:52,108.59,minutes,True,12.19,minutes
+2024-11-01,18:42:38,150.87,hours,True,16.31,minutes
+2024-11-09,05:43:09,246.85,hours,True,8.04,minutes
+2024-11-09,19:41:14,74.32,minutes,False,15.3,hours
+2024-11-10,06:43:25 AM,232.58,minutes,False,21.9,hours
+2024-11-16,05:19:18,116.53,minutes,False,20.02,hours
+2024-11-07,21:48:27,297.11,minutes,True,23.31,minutes
+2024-11-03,14:25:19,239.85,minutes,True,17.55,minutes
+2024-11-22,03:16:28 AM,94.17,minutes,False,12.92,minutes
+2024-10-30,10:10:57 AM,251.08,minutes,True,22.73,minutes
+2024-10-30,17:10:34,279.29,minutes,True,22.93,hours
+2024-11-03,10:06:24 AM,116.25,minutes,False,12.49,hours
+2024-10-29,12:21:04,210.75,hours,False,15.07,minutes
+2024-11-22,08:47:39 AM,191.69,minutes,False,9.7,hours
+2024-11-20,10:51:04 PM,186.68,minutes,False,10.96,hours
+2024-11-08,01:38:45 PM,173.28,minutes,,1.14,minutes
+2024-11-06,02:22:09,210.13,hours,False,11.21,hours
+2024-10-28,07:09:21 PM,242.33,hours,True,2.16,hours
+2024-10-30,05:11:10 PM,49.29,hours,False,12.12,hours
+2024-11-25,16:36:25,91.04,minutes,True,4.62,minutes
+2024-11-23,06:13:33 AM,87.46,minutes,,13.92,minutes
+2024-11-25,16:53:01,10.57,minutes,,14.81,minutes
+2024-11-10,01:12:20 AM,143.6,hours,False,16.89,minutes
+2024-11-16,04:24:35,219.63,minutes,,18.57,minutes
+2024-11-04,04:23:30 AM,115.0,minutes,False,3.44,hours
+2024-11-16,07:18:39 PM,132.4,hours,True,23.24,minutes
+2024-11-01,21:34:19,78.43,hours,False,1.25,minutes
+2024-11-02,15:57:25,51.83,hours,,18.49,minutes
+2024-11-10,05:25:45 AM,195.42,hours,False,15.76,hours
+2024-11-12,11:41:21 PM,366.57,minutes,False,33.42,hours
+2024-11-10,10:25:45 PM,217.68,minutes,True,20.33,minutes
+2024-11-18,07:08:12 PM,137.28,minutes,,21.32,minutes
+2024-10-28,00:41:21,582.99,minutes,False,32.65,hours
+2024-10-31,12:12:15 AM,120.57,minutes,,7.12,minutes
+2024-10-30,23:14:01,262.29,hours,True,3.59,minutes
+2024-11-06,09:49:08 AM,89.86,hours,True,15.0,minutes
+2024-11-17,03:43:49 AM,46.52,hours,,8.4,hours
+2024-11-26,11:16:04 AM,276.23,minutes,,4.26,minutes
+2024-11-17,05:41:21 AM,450.81,minutes,True,28.48,hours
+2024-11-20,07:39:13,237.74,hours,,20.43,minutes
+2024-11-21,21:31:52,88.09,minutes,True,6.7,hours
+2024-11-23,04:37:50 AM,147.7,hours,False,23.1,minutes
+2024-11-13,10:03:52,293.51,hours,,4.51,hours
+2024-11-07,01:17:57 AM,296.44,hours,False,17.91,hours
+2024-10-31,14:13:42,49.92,hours,False,5.94,minutes
+2024-11-07,01:39:19 AM,286.2,minutes,True,3.61,minutes
+2024-11-20,07:48:16 AM,224.77,minutes,False,17.77,hours
+2024-11-26,07:53:26 PM,42.94,hours,True,3.32,hours
+2024-10-31,04:26:35 AM,262.85,hours,True,17.55,minutes
+2024-11-27,18:31:54,82.9,hours,True,19.34,hours
+2024-11-03,16:05:45,126.64,minutes,True,16.49,hours
+2024-11-13,00:51:55,252.53,minutes,True,20.56,minutes
+2024-11-04,11:27:29 AM,110.42,minutes,False,5.07,hours
+2024-11-19,07:16:29,110.55,hours,True,16.28,hours
+2024-11-11,04:40:10,51.82,hours,False,2.73,hours
+2024-11-02,09:46:21,164.92,minutes,False,17.42,minutes
+2024-11-04,00:36:12,105.7,minutes,False,22.28,hours
+2024-10-31,20:35:46,241.58,hours,False,1.74,hours
+2024-10-31,10:32:53,136.56,minutes,False,9.89,hours
+2024-10-31,10:46:50,98.69,minutes,,18.31,hours
+2024-11-09,19:00:30,90.07,hours,True,17.09,hours
+2024-11-22,09:46:18,35.46,minutes,,11.97,minutes
+2024-11-16,19:01:42,132.58,minutes,False,23.03,minutes
+2024-11-07,17:33:20,91.74,minutes,False,2.18,minutes
+2024-11-16,21:41:21,338.85,minutes,False,33.98,hours
+2024-11-21,09:54:07 PM,110.2,minutes,True,9.13,hours
+2024-11-24,13:29:31,79.17,hours,False,3.25,minutes
+2024-11-06,20:37:09,153.07,minutes,True,17.08,minutes
+2024-11-25,03:39:27 AM,253.16,minutes,,13.02,minutes
+2024-11-06,04:14:34,186.53,hours,True,9.43,hours
+2024-11-05,11:35:13 PM,90.1,minutes,False,19.4,minutes
+2024-11-26,09:19:59,36.4,minutes,False,2.56,minutes
+2024-11-17,02:08:06,254.51,hours,True,14.9,hours
+2024-11-05,01:47:55 AM,198.52,minutes,False,17.92,minutes
+2024-11-18,05:00:23,86.26,hours,,18.55,minutes
+2024-11-13,19:33:14,44.33,hours,False,3.46,minutes
+2024-11-17,05:55:10,298.11,hours,True,16.5,hours
+2024-11-17,19:27:58,240.6,minutes,,5.16,minutes
+2024-11-23,13:06:29,200.16,hours,True,4.73,hours
+2024-11-02,03:00:04 PM,282.8,hours,,15.88,minutes
+2024-11-18,14:14:00,235.24,minutes,False,20.2,minutes
+2024-11-08,23:06:15,295.34,minutes,True,6.35,minutes
+2024-11-18,15:40:27,178.08,hours,False,23.39,hours
+2024-11-22,21:15:27,209.16,hours,,7.2,hours
+2024-11-09,15:20:54,109.17,hours,False,23.1,hours
+2024-11-16,11:03:56,145.02,minutes,True,2.63,minutes
+2024-11-23,08:58:37 AM,131.28,hours,,14.37,hours
+2024-11-12,01:48:18,284.18,hours,,21.3,minutes
+2024-11-01,02:03:20 AM,162.58,minutes,True,4.4,minutes
+2024-11-05,08:52:12 PM,237.14,minutes,True,5.05,minutes
+2024-11-23,10:12:04,46.08,hours,,6.28,minutes
+2024-11-12,12:11:25,23.88,minutes,,13.21,hours
+2024-11-22,08:11:20 AM,222.43,hours,True,10.75,minutes
+2024-11-14,07:50:37 AM,253.34,minutes,True,23.8,hours
+2024-11-15,12:04:48 AM,154.88,minutes,True,13.14,minutes
+2024-11-22,00:44:57,95.98,minutes,True,19.74,hours
+2024-11-14,07:48:36,36.41,hours,True,5.23,minutes
+2024-11-13,03:37:40,40.91,hours,False,11.25,minutes
+2024-11-26,10:44:17 AM,93.58,minutes,,21.67,hours
+2024-11-14,00:12:04,222.35,minutes,,15.85,minutes
+2024-11-26,21:41:21,363.28,minutes,True,34.57,hours
+2024-11-05,13:20:01,21.89,minutes,False,8.62,minutes
+2024-10-29,07:46:01 PM,98.04,hours,False,11.72,hours
+2024-11-02,07:03:18 PM,200.22,minutes,True,6.77,minutes
+2024-11-25,18:55:03,45.02,minutes,,20.66,minutes
+2024-11-20,02:31:11 PM,105.02,hours,False,1.22,hours
+2024-11-09,00:02:04,105.59,hours,,21.51,minutes
+2024-11-21,17:40:30,83.12,hours,,16.45,minutes
+2024-10-30,03:57:55 PM,262.18,minutes,,18.99,hours
+2024-11-24,02:40:22 PM,142.47,hours,False,2.57,hours
+2024-11-10,10:53:46 PM,252.18,minutes,False,19.04,hours
+2024-11-02,17:20:49,265.87,hours,True,1.83,minutes
+2024-11-11,11:32:07 PM,246.79,minutes,,11.74,minutes
+2024-11-10,12:07:06,41.73,hours,,10.73,minutes
+2024-11-25,07:47:41,217.29,hours,False,12.34,hours
+2024-11-16,04:51:54 PM,118.25,minutes,,22.89,minutes
+2024-11-26,05:28:29 PM,181.59,minutes,,13.63,minutes
+2024-11-15,01:53:56 PM,292.98,minutes,,13.23,minutes
+2024-11-10,10:11:38 PM,84.17,minutes,,21.4,minutes
+2024-11-13,12:15:00 PM,203.25,hours,False,10.37,minutes
+2024-11-21,07:10:10 AM,270.7,hours,False,12.1,minutes
+2024-11-18,14:40:52,37.67,minutes,,4.61,minutes
+2024-11-15,03:47:59 AM,186.4,hours,,10.92,minutes
+2024-11-17,03:53:53 AM,247.6,minutes,True,19.16,hours
+2024-11-07,05:49:21,127.48,minutes,False,13.15,hours
+2024-11-16,01:42:42 PM,62.53,hours,False,15.1,hours
+2024-10-31,09:37:23 AM,35.01,minutes,True,16.5,minutes
+2024-11-24,19:23:12,137.63,minutes,True,12.11,minutes
+2024-10-29,05:23:32 PM,297.69,minutes,True,22.23,hours
+2024-11-15,11:16:08 PM,168.45,hours,False,19.44,hours
+2024-11-19,11:44:19,60.31,minutes,False,17.97,hours
+2024-10-30,00:43:54,89.75,hours,False,4.76,minutes
+2024-11-16,22:54:48,214.97,hours,True,14.28,minutes
+2024-10-31,10:39:01 PM,94.54,hours,False,11.89,hours
+2024-10-29,19:05:32,80.06,minutes,,3.96,hours
+2024-11-02,12:46:41 AM,101.92,minutes,False,16.14,hours
+2024-11-25,04:51:32,137.88,minutes,True,3.46,hours
+2024-11-28,13:03:03,66.34,hours,,12.84,hours
+2024-11-19,23:04:31,221.34,hours,,15.53,minutes
+2024-11-01,03:45:23 AM,92.76,minutes,True,4.85,hours
+2024-11-08,23:25:00,38.51,minutes,True,5.24,hours
+2024-11-25,05:05:50 AM,110.21,minutes,True,18.53,hours
+2024-11-09,02:55:29 AM,240.25,minutes,True,19.58,minutes
+2024-11-21,09:40:31,221.26,hours,False,23.64,minutes
+2024-11-07,11:52:07 AM,127.43,minutes,True,3.73,minutes
+2024-11-25,09:21:18 PM,251.13,hours,False,3.84,minutes
+2024-11-19,09:34:20,125.87,minutes,True,20.39,minutes
+2024-10-31,12:59:02 AM,16.16,hours,True,16.15,hours
+2024-10-28,05:11:02 PM,157.84,minutes,True,10.79,minutes
+2024-11-14,07:13:18 AM,48.41,minutes,,7.79,minutes
+2024-10-29,07:49:04,92.67,hours,,13.79,minutes
+2024-11-21,21:14:45,259.14,hours,,13.36,hours
+2024-11-15,04:29:38 AM,98.38,minutes,False,2.31,hours
+2024-11-03,08:55:56 AM,66.74,hours,False,21.6,hours
+2024-11-11,11:53:46 AM,284.64,hours,True,15.55,minutes
+2024-11-21,17:28:58,131.16,hours,,20.54,minutes
+2024-11-04,08:25:17,129.03,minutes,True,8.43,hours
+2024-11-13,22:27:31,280.3,hours,True,12.46,minutes
+2024-11-04,17:48:58,131.99,minutes,True,22.14,minutes
+2024-11-01,04:15:19 AM,247.84,hours,False,12.14,minutes
+2024-10-31,03:45:13,63.56,minutes,,22.82,minutes
+2024-11-17,20:09:33,257.39,minutes,,17.01,minutes
+2024-11-02,19:52:08,164.75,minutes,False,11.66,minutes
+2024-11-15,20:40:39,62.96,minutes,False,2.59,hours
+2024-11-11,11:57:12 AM,132.77,hours,,11.73,hours
+2024-11-14,10:53:32 PM,72.99,hours,True,8.86,hours
+2024-11-15,12:53:30 PM,231.27,minutes,False,3.78,minutes
+2024-11-03,04:08:13 PM,152.43,minutes,False,12.36,hours
+2024-11-13,12:53:47 PM,137.08,hours,False,3.63,hours
+2024-10-30,03:41:21,333.16,minutes,True,29.99,hours
+2024-11-09,08:18:29,118.93,hours,True,13.28,hours
+2024-11-15,23:10:42,29.77,hours,,2.99,hours
+2024-11-06,11:45:43,47.47,minutes,False,20.17,minutes
+2024-11-22,19:38:50,259.73,minutes,True,2.1,minutes
+2024-11-18,01:35:42 PM,122.27,hours,True,22.5,hours
+2024-10-29,16:59:22,128.82,minutes,False,4.67,minutes
+2024-11-13,03:15:41 PM,121.16,minutes,True,10.58,hours
+2024-11-11,11:09:37 PM,193.04,hours,True,17.59,minutes
+2024-11-10,20:51:11,241.73,minutes,,2.89,minutes
+2024-11-12,16:50:30,129.71,minutes,True,8.3,hours
+2024-11-12,03:37:41 AM,263.35,hours,,18.5,minutes
+2024-10-31,01:54:02 AM,157.53,minutes,True,2.14,minutes
+2024-11-05,01:20:29 AM,131.79,hours,,21.36,minutes
+2024-11-02,01:39:36 PM,156.88,hours,False,11.67,minutes
+2024-11-13,00:40:32,170.02,hours,False,18.16,minutes
+2024-11-04,16:53:10,68.51,minutes,False,6.22,hours
+2024-11-03,06:30:58 AM,291.13,hours,False,23.87,minutes
+2024-11-15,11:07:00 PM,91.22,minutes,,15.24,hours
+2024-11-08,12:22:49,263.07,minutes,False,5.73,hours
+2024-11-17,04:48:16 PM,276.85,minutes,True,16.59,hours
+2024-10-31,06:31:55 AM,94.5,hours,False,5.25,minutes
+2024-11-05,20:37:29,75.17,minutes,True,4.03,hours
+2024-11-01,02:42:25 PM,277.49,minutes,True,3.88,minutes
+2024-11-01,06:05:42 PM,132.1,hours,False,3.55,minutes
+2024-11-20,07:24:15 AM,279.42,minutes,,1.58,minutes
+2024-11-12,17:33:48,253.81,hours,,23.98,minutes
+2024-11-12,10:33:51 PM,77.43,hours,True,11.59,minutes
+2024-10-30,05:41:21 AM,418.72,minutes,False,37.97,hours
+2024-11-22,04:28:02 PM,97.02,hours,False,18.39,minutes
+2024-10-30,03:55:31 AM,110.87,hours,True,11.05,minutes
+2024-11-14,12:05:52 AM,228.55,minutes,,8.65,hours
+2024-10-29,06:43:53,197.06,hours,True,18.94,hours
+2024-11-12,06:23:14 AM,209.29,hours,,2.14,minutes
+2024-11-15,14:31:32,217.43,hours,False,9.12,hours
+2024-11-14,14:31:10,187.85,hours,,1.64,minutes
+2024-11-16,02:16:47 PM,83.28,minutes,True,10.54,hours
+2024-11-23,12:48:22 PM,97.1,hours,True,4.23,hours
+2024-11-13,11:57:33,240.1,hours,False,7.12,minutes
+2024-11-22,02:42:40,47.73,hours,,3.98,minutes
+2024-11-22,03:00:42 PM,69.64,hours,True,13.96,hours
+2024-11-18,08:16:52,252.15,minutes,True,18.72,minutes
+2024-11-17,12:57:58 PM,276.94,hours,True,10.14,minutes
+2024-11-09,19:29:05,170.97,minutes,,21.17,hours
+2024-11-19,03:17:06,62.75,minutes,False,9.57,minutes
+2024-11-04,16:22:59,229.5,minutes,,13.17,minutes
+2024-10-31,18:51:08,273.54,hours,False,18.5,minutes
+2024-11-06,10:55:07,134.9,minutes,False,22.92,hours
+2024-11-07,07:35:32 AM,133.97,hours,False,15.16,hours
+2024-11-26,03:41:21 AM,555.07,minutes,True,27.14,hours
+2024-11-20,14:24:59,103.09,minutes,False,18.52,minutes
+2024-11-14,04:22:59 PM,40.78,minutes,,16.07,minutes
+2024-11-13,02:14:26 PM,140.32,hours,True,8.14,hours
+2024-11-07,13:55:51,163.57,minutes,True,7.82,minutes
+2024-11-13,00:55:35,191.37,hours,,3.13,hours
+2024-11-18,02:20:41 PM,235.21,minutes,,23.43,hours
+2024-11-01,09:35:46 AM,294.87,hours,True,6.75,minutes
+2024-11-17,03:37:29 AM,189.18,minutes,,4.8,minutes
+2024-11-25,05:23:18 AM,87.81,hours,True,4.72,minutes
+2024-11-12,03:51:46 AM,195.01,minutes,True,12.28,minutes
+2024-11-25,19:21:58,189.44,hours,False,13.02,minutes
+2024-11-09,17:19:32,115.03,minutes,False,6.51,hours
+2024-11-19,05:09:59 AM,20.27,hours,,9.67,minutes
+2024-11-28,07:37:45,51.99,minutes,True,17.64,hours
+2024-10-29,11:26:51 AM,228.95,minutes,True,22.29,hours
+2024-11-05,02:54:35 PM,194.93,hours,True,16.74,minutes
+2024-10-31,11:22:33,67.52,hours,,8.72,hours
+2024-11-23,10:59:32 AM,110.71,minutes,True,13.66,hours
+2024-11-19,06:26:07 AM,37.5,hours,True,1.48,minutes
+2024-11-12,02:09:48 PM,299.06,minutes,True,6.68,hours
+2024-11-16,05:09:58 AM,47.24,minutes,True,9.59,hours
+2024-11-05,03:04:34,284.57,hours,,9.39,minutes
+2024-10-30,09:35:15,129.64,hours,,20.86,minutes
+2024-11-21,06:36:14 AM,199.19,hours,,20.37,hours
+2024-11-01,09:58:16 PM,56.86,hours,True,4.85,minutes
+2024-10-31,16:52:46,61.17,minutes,,9.26,hours
+2024-11-27,07:43:27 PM,51.46,minutes,,12.64,minutes
+2024-11-12,00:18:00,50.09,hours,True,10.08,hours
+2024-11-02,21:09:29,17.81,hours,False,16.38,minutes
+2024-11-22,03:10:44 PM,86.55,minutes,False,11.47,hours
+2024-11-14,07:16:38 AM,273.0,minutes,True,2.25,hours
+2024-11-04,06:41:21 AM,315.03,minutes,False,41.03,hours
+2024-11-18,05:37:41 PM,203.63,minutes,,11.14,minutes
+2024-10-29,03:09:24 AM,39.22,hours,,2.45,hours
+2024-10-29,05:47:57,128.98,minutes,False,10.36,hours
+2024-11-15,07:17:30 PM,281.72,hours,False,22.6,minutes
+2024-11-17,11:39:30 PM,48.73,hours,False,1.56,hours
+2024-11-20,04:00:25 AM,10.24,minutes,,14.52,minutes
+2024-11-21,10:49:34,288.98,minutes,False,23.89,hours
+2024-11-06,05:47:32 PM,218.98,minutes,False,18.63,hours
+2024-11-15,05:58:45,265.4,hours,True,3.99,minutes
+2024-11-10,04:26:02 PM,129.09,minutes,,8.26,minutes
+2024-10-29,19:39:43,243.22,minutes,,1.1,minutes
+2024-11-10,09:06:27 AM,44.19,minutes,True,17.73,minutes
+2024-11-20,08:03:08 PM,211.08,minutes,,17.43,hours
+2024-11-10,19:31:04,21.58,minutes,False,7.91,minutes
+2024-11-16,01:11:47 PM,15.34,minutes,True,18.88,minutes
+2024-11-27,08:07:45 AM,51.27,hours,,10.25,hours
+2024-11-03,20:53:00,24.63,minutes,False,18.65,minutes
+2024-11-28,01:12:20 PM,280.39,minutes,True,18.46,minutes
+2024-11-20,11:41:21 PM,492.81,minutes,False,41.89,hours
+2024-11-25,12:50:44 PM,276.08,hours,False,7.78,hours
+2024-11-13,02:36:56 PM,232.24,hours,,12.45,hours
+2024-11-15,20:20:44,48.73,hours,,7.53,minutes
+2024-11-19,07:13:23 AM,65.52,hours,,14.2,hours
+2024-11-14,08:45:48,189.21,hours,False,15.48,hours
+2024-11-26,09:39:14 AM,267.89,minutes,True,22.87,minutes
+2024-11-16,07:59:24 PM,145.27,minutes,False,9.65,minutes
+2024-11-14,21:19:13,169.23,hours,True,19.16,minutes
+2024-11-19,20:15:57,142.2,hours,True,4.44,hours
+2024-11-01,03:18:59,209.4,minutes,,7.65,hours
+2024-11-11,11:42:19,27.79,hours,False,16.66,minutes
+2024-11-02,03:54:35 PM,190.46,minutes,True,21.82,minutes
+2024-11-14,04:27:28 AM,264.93,minutes,False,19.07,hours
+2024-10-28,22:05:00,246.59,minutes,False,9.1,minutes
+2024-10-31,10:39:13 PM,69.61,hours,True,21.56,hours
+2024-11-24,14:58:15,193.25,hours,True,9.4,minutes
+2024-11-16,20:24:39,126.45,hours,,12.79,minutes
+2024-11-06,07:26:57 AM,26.25,minutes,,9.78,hours
+2024-11-06,20:23:56,154.74,minutes,True,3.71,hours
+2024-11-15,06:53:51 AM,265.31,minutes,False,21.6,hours
+2024-11-26,18:16:22,236.95,hours,False,8.44,hours
+2024-11-21,06:00:13 AM,243.13,minutes,True,13.16,minutes
+2024-10-29,05:24:50 AM,272.33,hours,,8.21,minutes
+2024-11-27,16:09:01,273.14,hours,True,19.97,hours
+2024-11-07,08:21:56,250.85,minutes,True,16.56,minutes
+2024-11-28,05:40:00 AM,35.18,hours,,9.78,hours
+2024-11-22,10:50:00 AM,252.74,hours,False,14.37,hours
+2024-11-09,04:50:10,250.26,minutes,True,3.27,hours
+2024-11-22,08:47:19 PM,75.25,hours,,23.88,hours
+2024-11-22,07:42:16,92.03,hours,,18.05,hours
+2024-11-23,18:23:28,87.74,hours,True,17.29,minutes
+2024-11-26,10:15:37 AM,134.92,hours,True,18.51,hours
+2024-11-09,09:43:25 AM,257.15,minutes,True,12.52,minutes
+2024-11-01,17:39:49,116.03,minutes,False,15.36,hours
+2024-11-08,22:41:21,506.6,minutes,True,43.08,hours
+2024-11-23,05:21:31 PM,144.91,minutes,,16.34,minutes
+2024-11-04,02:04:29,288.54,minutes,True,6.02,minutes
+2024-10-30,12:54:41 AM,69.63,minutes,,3.19,minutes
+2024-11-15,04:41:21 AM,341.6,minutes,False,41.23,hours
+2024-11-07,08:03:45 AM,41.14,hours,False,15.08,minutes
+2024-11-22,13:51:42,182.11,minutes,,7.6,hours
+2024-11-07,17:59:15,275.51,hours,False,9.85,minutes
+2024-11-03,03:41:21,389.89,minutes,False,38.43,hours
+2024-10-31,09:20:52,294.34,hours,True,16.48,minutes
+2024-11-19,07:39:35 AM,243.19,hours,False,13.81,hours
+2024-11-17,09:43:47 PM,139.9,minutes,,16.01,minutes
+2024-11-26,07:26:41 AM,120.13,minutes,True,16.49,minutes
+2024-11-28,04:29:58,169.48,hours,False,16.33,minutes
+2024-11-15,05:37:19 AM,261.88,minutes,False,8.24,hours
+2024-11-12,18:15:10,293.92,minutes,True,4.36,minutes
+2024-11-18,08:41:21 PM,462.6,minutes,False,40.17,hours
+2024-11-11,18:02:42,131.41,minutes,True,4.48,hours
+2024-11-02,12:21:43 AM,281.37,hours,True,8.45,minutes
+2024-11-18,04:13:45 AM,99.68,hours,False,2.86,hours
+2024-11-17,05:01:36 AM,205.85,minutes,,18.94,hours
+2024-11-13,04:15:21 AM,85.32,minutes,,17.82,minutes
+2024-11-24,03:20:23,55.48,minutes,True,18.41,hours
+2024-11-06,02:41:21 AM,450.41,minutes,True,28.86,hours
+2024-11-15,04:35:01 PM,131.22,hours,False,2.28,hours
+2024-11-05,09:23:53,146.19,minutes,True,1.76,hours
+2024-11-09,18:18:56,179.95,minutes,False,12.57,hours
+2024-11-06,06:28:48 AM,80.98,minutes,True,15.31,minutes
+2024-11-11,11:20:18,15.57,hours,,1.28,minutes
+2024-11-17,21:12:53,35.48,minutes,False,18.79,hours
+2024-11-25,06:56:04,127.5,minutes,,7.91,hours
+2024-11-27,20:11:38,30.43,hours,True,5.27,minutes
+2024-11-03,10:31:32 PM,291.6,minutes,,17.91,minutes
+2024-11-07,05:05:11 PM,76.7,hours,,12.42,minutes
+2024-11-27,12:55:06 AM,281.93,minutes,,20.11,minutes
+2024-11-23,18:31:20,129.78,hours,False,3.13,minutes
+2024-10-29,04:03:10 PM,238.8,minutes,,4.15,hours
+2024-10-29,02:52:44,25.17,minutes,True,10.28,hours
+2024-11-06,11:50:09 AM,11.35,hours,,12.17,hours
+2024-11-25,14:29:47,73.11,minutes,,21.38,minutes
+2024-11-15,18:59:58,176.12,hours,True,10.63,minutes
+2024-11-09,03:06:49 PM,214.37,hours,True,10.24,hours
+2024-11-22,11:08:54,108.92,minutes,True,5.74,hours
+2024-11-16,16:27:04,284.12,minutes,False,14.61,minutes
+2024-11-25,12:01:24,157.21,hours,True,23.53,hours
+2024-11-15,20:03:58,11.74,minutes,False,6.51,hours
+2024-11-05,22:01:18,155.02,hours,,16.94,minutes
+2024-11-14,02:09:31 PM,23.2,minutes,,17.92,hours
+2024-11-16,02:23:10 PM,220.14,hours,,10.37,minutes
+2024-11-14,11:58:41,177.25,minutes,False,14.94,minutes
+2024-11-19,17:54:56,282.96,minutes,False,19.22,minutes
+2024-11-12,05:28:24 PM,90.21,minutes,,10.66,hours
+2024-11-11,12:15:51 AM,226.12,minutes,True,10.88,hours
+2024-11-05,07:40:01 PM,49.24,minutes,False,23.17,minutes
+2024-11-05,15:29:12,282.39,hours,True,14.57,minutes
+2024-11-27,05:32:47 PM,10.9,minutes,True,9.43,minutes
+2024-11-26,01:47:08 PM,238.2,hours,True,15.19,hours
+2024-11-21,17:32:26,36.24,minutes,,23.94,hours
+2024-11-15,15:56:34,219.13,hours,True,20.97,hours
+2024-11-03,16:25:14,262.59,minutes,,16.06,minutes
+2024-11-25,07:26:30 PM,283.34,minutes,,9.34,hours
+2024-11-16,01:15:42 AM,120.39,minutes,True,14.87,minutes
+2024-11-04,08:33:29,72.1,minutes,True,9.15,minutes
+2024-11-21,06:33:32,167.23,hours,,11.66,minutes
+2024-11-17,04:13:26,68.05,minutes,True,5.64,hours
+2024-11-05,11:09:06 AM,120.05,hours,True,19.2,minutes
+2024-11-13,11:17:30 PM,218.36,minutes,,18.64,hours
+2024-11-23,21:08:16,196.57,hours,True,1.2,hours
+2024-11-14,05:28:31 PM,180.65,minutes,,5.33,hours
+2024-11-03,03:00:11 AM,182.3,hours,True,13.76,minutes
+2024-11-04,08:52:46 AM,194.14,minutes,,2.39,hours
+2024-11-23,08:03:09 PM,86.21,hours,False,18.0,hours
+2024-11-19,03:41:21 AM,356.68,minutes,False,42.15,hours
+2024-11-26,01:41:21,511.17,minutes,False,46.86,hours
+2024-11-16,10:55:24 PM,247.02,hours,,11.52,hours
+2024-11-04,01:53:21 AM,174.07,minutes,False,15.32,hours
+2024-11-24,01:07:03 PM,140.77,hours,,14.97,hours
+2024-11-13,07:19:29 PM,151.41,minutes,,16.43,hours
+2024-11-08,07:02:03 AM,182.65,minutes,False,15.86,minutes
+2024-11-04,15:02:07,171.3,minutes,True,4.81,hours
+2024-11-11,12:04:39 PM,254.7,minutes,True,13.8,minutes
+2024-11-14,05:37:08 AM,151.05,minutes,False,23.15,hours
+2024-11-22,09:26:11 PM,168.47,minutes,False,5.0,hours
+2024-10-30,09:38:49,204.55,minutes,False,20.62,hours
+2024-11-21,14:45:14,290.33,minutes,,15.5,hours
+2024-11-27,05:10:50 PM,174.85,hours,,4.82,hours
+2024-11-21,09:51:05 AM,233.36,hours,False,14.1,minutes
+2024-11-10,14:07:19,108.7,hours,False,2.3,hours
+2024-11-03,04:43:26 AM,278.35,minutes,True,11.98,minutes
+2024-11-28,05:46:24,105.11,hours,True,22.25,hours
+2024-11-17,03:14:23 AM,210.13,minutes,False,10.93,hours
+2024-10-30,09:18:42 PM,69.85,hours,True,2.69,hours
+2024-11-11,01:04:06,46.84,hours,False,5.82,minutes
+2024-11-26,19:30:37,214.34,hours,True,7.55,minutes
+2024-11-27,02:48:38 PM,203.37,hours,True,17.33,minutes
+2024-11-17,04:47:34,118.56,hours,,19.68,minutes
+2024-11-27,08:32:20,99.77,minutes,,21.15,minutes
+2024-11-06,20:27:03,85.39,minutes,,21.18,minutes
+2024-11-15,02:40:01 PM,104.15,hours,,3.31,minutes
+2024-11-23,11:47:40 AM,230.74,minutes,,7.59,hours
+2024-11-01,07:36:23,287.96,minutes,False,15.48,minutes
+2024-11-15,12:01:51 PM,194.26,hours,,16.91,minutes
+2024-11-27,17:01:30,105.9,minutes,True,5.51,minutes
+2024-11-27,11:09:55 AM,247.96,hours,,19.63,minutes
+2024-11-28,01:09:27 AM,140.61,hours,,2.37,minutes
+2024-11-23,19:16:20,33.42,minutes,True,5.16,minutes
+2024-11-11,14:15:53,134.9,minutes,False,5.49,minutes
+2024-11-25,04:42:42,54.92,hours,True,18.58,hours
+2024-11-21,01:05:37,30.49,minutes,True,16.26,minutes
+2024-11-27,01:45:31 AM,143.39,minutes,True,21.74,minutes
+2024-11-08,08:59:13 AM,186.31,minutes,False,2.07,minutes
+2024-11-27,18:34:46,289.38,minutes,False,6.21,minutes
+2024-11-08,09:09:52 PM,113.28,minutes,True,3.41,hours
+2024-11-26,11:48:36 PM,76.4,hours,,4.11,hours
+2024-11-10,09:39:47 AM,14.15,minutes,False,22.52,minutes
+2024-11-07,17:15:53,114.39,minutes,False,10.61,hours
+2024-10-31,01:17:30 PM,163.42,hours,True,14.58,minutes
+2024-11-16,03:41:21 AM,417.73,minutes,False,34.2,hours
+2024-11-17,21:15:46,228.01,hours,False,16.67,hours
+2024-11-15,01:41:21,414.0,minutes,True,38.92,hours
+2024-11-11,05:15:59 PM,82.63,minutes,,11.96,minutes
+2024-11-13,11:24:02 PM,10.36,minutes,False,21.01,hours
+2024-11-06,21:37:25,88.7,hours,,5.81,hours
+2024-11-26,14:20:24,245.82,minutes,True,1.63,hours
+2024-11-24,09:24:53,227.18,hours,,17.66,hours
+2024-11-01,12:31:59 PM,106.15,hours,,11.94,minutes
+2024-10-29,09:09:49,230.61,hours,,16.83,hours
+2024-11-05,05:54:10,206.35,hours,True,23.76,minutes
+2024-11-10,08:05:39 PM,236.73,hours,True,13.83,minutes
+2024-11-15,02:15:59 AM,39.21,minutes,True,8.67,hours
+2024-11-22,07:16:20 PM,47.78,hours,True,22.52,minutes
+2024-11-21,02:25:56 PM,163.18,hours,False,3.76,minutes
+2024-10-30,08:18:37 PM,91.49,minutes,True,18.55,minutes
+2024-11-20,04:38:18 PM,100.58,hours,,20.04,hours
+2024-11-11,12:10:46,15.48,minutes,True,17.57,hours
+2024-11-26,07:54:00 PM,104.15,minutes,,17.21,minutes
+2024-11-11,07:12:55 PM,188.81,minutes,,21.05,minutes
+2024-11-25,04:39:46 PM,226.15,minutes,False,7.71,minutes
+2024-11-24,14:00:07,261.7,hours,False,3.67,minutes
+2024-11-02,06:38:08,51.87,minutes,,2.81,hours
+2024-11-11,23:08:13,93.19,minutes,True,3.94,hours
+2024-11-22,09:30:59,228.74,minutes,False,14.64,hours
+2024-11-24,20:01:45,172.32,minutes,True,4.86,hours
+2024-11-17,09:21:21 AM,70.46,minutes,True,14.65,minutes
+2024-11-23,07:53:22 AM,142.7,minutes,False,22.95,hours
+2024-10-31,04:57:35 AM,218.42,minutes,True,18.39,hours
+2024-11-11,04:24:17,148.19,hours,False,11.46,minutes
+2024-11-24,09:22:15 PM,51.61,hours,True,6.65,hours
+2024-11-22,00:56:05,290.78,minutes,False,16.14,minutes
+2024-11-14,02:22:55 PM,150.27,minutes,,8.02,hours
+2024-11-04,11:51:27,239.03,hours,True,15.88,hours
+2024-11-15,10:03:01 PM,126.46,minutes,,23.47,minutes
+2024-11-12,03:34:28 AM,243.21,minutes,,11.23,minutes
+2024-11-05,05:10:48,246.02,minutes,False,2.01,hours
+2024-11-07,18:26:56,77.95,minutes,False,10.83,minutes
+2024-11-17,10:14:48,271.8,minutes,False,14.18,minutes
+2024-10-31,20:41:21,484.34,minutes,False,32.19,hours
+2024-11-07,08:46:04 AM,196.23,minutes,True,10.31,hours
+2024-11-01,12:01:42 AM,137.18,minutes,False,6.23,minutes
+2024-11-05,04:17:50,160.18,hours,False,1.47,minutes
+2024-11-20,03:12:22,178.83,minutes,,7.58,hours
+2024-11-03,12:43:34 PM,259.15,hours,False,15.63,hours
+2024-10-31,03:16:16 AM,122.58,minutes,True,9.04,hours
+2024-11-19,07:24:46,133.97,hours,,18.49,minutes
+2024-11-18,01:02:19 AM,294.61,minutes,,2.91,hours
+2024-11-01,18:04:37,115.38,minutes,True,4.95,minutes
+2024-11-08,19:07:01,109.32,minutes,,11.37,minutes
+2024-11-23,01:01:32,118.19,hours,,7.69,hours
+2024-11-19,12:52:48 PM,180.68,hours,True,13.11,minutes
+2024-10-31,18:21:24,242.27,minutes,False,23.75,hours
+2024-11-22,19:56:59,187.02,minutes,,4.97,hours
+2024-11-06,14:47:52,289.6,minutes,,21.25,hours
+2024-11-17,13:49:09,280.53,minutes,False,22.07,minutes
+2024-11-19,19:06:38,62.37,minutes,True,9.66,minutes
+2024-11-18,13:22:37,186.19,hours,,11.58,minutes
+2024-11-05,20:43:26,21.27,minutes,,17.34,hours
+2024-11-14,15:43:55,251.81,hours,False,8.12,minutes
+2024-11-04,06:30:36 AM,171.71,hours,False,17.12,hours
+2024-11-12,04:20:57 AM,230.41,hours,,7.08,minutes
+2024-11-09,02:05:54 AM,143.99,hours,True,9.81,hours
+2024-11-05,09:51:09,171.78,hours,,10.87,hours
+2024-11-18,11:13:36 PM,147.9,hours,False,8.1,hours
+2024-11-04,00:34:06,154.63,hours,True,10.85,hours
+2024-11-13,03:08:24 PM,115.34,hours,True,2.59,minutes
+2024-11-14,10:07:53 AM,170.27,minutes,False,20.47,minutes
+2024-11-27,05:21:51 AM,278.36,minutes,True,20.1,minutes
+2024-11-02,21:05:32,209.45,minutes,False,6.29,minutes
+2024-11-07,20:49:53,222.27,minutes,False,15.93,hours
+2024-11-07,21:28:46,114.07,minutes,False,12.52,hours
+2024-11-22,17:58:00,118.03,minutes,False,9.48,minutes
+2024-11-16,08:51:45 PM,206.52,minutes,False,17.1,minutes
+2024-11-27,04:40:57 PM,37.7,minutes,,1.51,hours
+2024-11-18,12:36:59,209.11,minutes,,7.33,minutes
+2024-11-16,01:04:39 PM,10.43,minutes,False,6.29,hours
+2024-11-09,12:24:43,155.65,hours,True,17.99,minutes
+2024-11-01,01:28:25 AM,201.45,hours,,4.99,hours
+2024-11-20,09:55:52 PM,36.82,hours,,1.53,minutes
+2024-11-21,01:19:01,204.58,hours,False,8.56,minutes
+2024-11-17,06:17:06,269.94,hours,True,7.57,hours
+2024-11-12,11:53:24,46.55,hours,False,23.7,minutes
+2024-11-17,08:49:16,30.9,hours,True,21.41,minutes
+2024-11-12,10:47:22 AM,184.2,minutes,False,2.67,minutes
+2024-11-09,08:42:46 PM,135.66,minutes,False,3.16,minutes
+2024-11-27,13:12:13,92.19,hours,,10.16,minutes
+2024-10-28,19:25:31,264.96,minutes,False,4.57,hours
+2024-11-13,12:50:01 PM,287.75,hours,,7.88,minutes
+2024-11-13,10:04:55,11.1,hours,False,16.14,minutes
+2024-11-08,06:58:57,56.91,minutes,False,17.05,minutes
+2024-11-10,09:52:31 AM,92.21,minutes,False,6.54,minutes
+2024-11-22,07:03:38 PM,45.53,hours,False,12.54,hours
+2024-11-15,12:20:32 AM,82.67,hours,False,10.94,minutes
+2024-11-13,10:18:46 PM,25.89,minutes,False,19.53,minutes
+2024-11-02,09:24:07 PM,251.55,minutes,True,13.41,hours
+2024-11-09,07:39:43 PM,252.14,hours,False,2.13,minutes
+2024-11-25,20:41:21,307.15,minutes,False,24.88,hours
+2024-11-13,00:39:08,28.2,hours,False,15.93,hours
+2024-11-07,20:44:36,248.52,minutes,True,21.51,hours
+2024-11-11,04:04:18 PM,21.88,hours,True,11.0,minutes
+2024-11-17,21:22:19,250.25,minutes,False,13.42,hours
+2024-11-15,04:41:21 AM,541.18,minutes,True,34.69,hours
+2024-10-27,10:41:21 PM,322.23,minutes,True,47.51,hours
+2024-11-12,12:04:39,132.93,minutes,,13.39,minutes
+2024-11-14,00:01:42,231.07,minutes,False,23.69,hours
+2024-11-27,11:37:15 PM,289.67,minutes,False,7.17,hours
+2024-11-19,12:18:53 AM,214.44,hours,True,19.38,minutes
+2024-10-31,14:19:33,104.5,minutes,,16.83,hours
+2024-11-19,09:12:26 PM,288.96,minutes,True,4.63,hours
+2024-11-08,02:12:24 AM,233.75,minutes,False,15.97,hours
+2024-10-28,23:45:55,182.16,hours,,15.34,hours
+2024-11-16,08:52:09 AM,26.48,hours,,5.19,minutes
+2024-11-16,07:06:53 AM,261.85,minutes,True,22.42,hours
+2024-11-14,11:29:28,98.46,hours,False,8.65,minutes
+2024-11-02,04:17:05 AM,279.52,minutes,True,1.92,hours
+2024-11-27,02:53:49 PM,23.2,hours,,7.59,hours
+2024-11-14,11:36:06,205.96,hours,True,17.54,hours
+2024-11-24,03:38:45 PM,80.95,hours,False,4.85,hours
+2024-11-26,08:59:48 AM,34.72,hours,True,22.89,minutes
+2024-11-27,14:36:06,61.04,hours,True,22.61,hours
+2024-11-05,15:11:25,49.5,minutes,True,18.0,hours
+2024-11-26,02:43:45 AM,242.04,minutes,False,16.27,hours
+2024-11-14,02:41:35 PM,277.34,hours,False,12.39,minutes
+2024-11-12,07:49:58 AM,172.27,hours,False,18.6,hours
+2024-10-29,19:19:47,176.21,hours,True,19.27,hours
+2024-11-24,04:58:09,79.77,hours,,7.89,minutes
+2024-11-28,07:46:09 AM,106.87,minutes,,2.12,hours
+2024-10-29,15:22:01,120.17,minutes,False,6.95,hours
+2024-11-28,06:18:02,28.96,minutes,,13.57,minutes
+2024-11-02,01:39:52 AM,281.57,hours,,19.37,hours
+2024-11-07,02:35:17 PM,81.92,minutes,True,6.74,hours
+2024-11-21,04:57:20 AM,149.31,hours,True,11.55,minutes
+2024-11-02,12:14:33,54.65,minutes,False,13.5,minutes
+2024-11-02,22:48:27,215.42,minutes,,12.86,hours
+2024-11-13,03:54:05,139.57,minutes,,13.87,minutes
+2024-11-27,07:54:51 AM,166.9,minutes,True,15.83,hours
+2024-11-21,12:29:25 PM,90.17,hours,False,21.27,minutes
+2024-11-16,20:41:21,442.0,minutes,True,43.57,hours
+2024-11-16,18:37:21,73.72,hours,False,13.39,minutes
+2024-11-19,07:22:56 PM,120.09,hours,True,7.73,minutes
+2024-11-25,05:15:53 PM,67.55,hours,False,16.91,minutes
+2024-11-26,04:37:01 AM,285.79,hours,False,23.28,hours
+2024-11-17,10:14:48 AM,212.25,minutes,False,15.49,hours
+2024-11-26,01:19:44,45.39,hours,True,15.59,hours
+2024-11-10,12:20:53,287.81,minutes,,18.18,minutes
+2024-11-05,03:07:52 PM,206.33,minutes,False,5.31,minutes
+2024-11-04,04:34:14,51.17,hours,,3.72,hours
+2024-11-27,20:59:51,12.12,hours,,7.04,hours
+2024-11-13,03:14:22,209.26,hours,False,22.43,hours
+2024-11-08,11:24:17,71.47,minutes,False,11.44,minutes
+2024-11-19,04:32:54,295.76,minutes,True,5.42,hours
+2024-11-07,14:52:42,14.42,hours,True,8.03,hours
+2024-11-04,23:29:17,231.53,minutes,True,21.21,minutes
+2024-11-13,06:09:03 PM,162.63,hours,False,21.63,minutes
+2024-11-07,08:06:31 AM,137.06,minutes,,23.09,minutes
+2024-11-10,01:41:57 PM,148.03,minutes,False,19.08,minutes
+2024-11-27,08:39:18 AM,195.8,minutes,,22.35,minutes
+2024-11-15,21:57:29,147.4,hours,True,4.32,hours
+2024-11-22,08:17:00 PM,273.41,hours,True,11.9,hours
+2024-11-27,02:53:47 AM,223.65,hours,,22.28,hours
+2024-11-13,15:21:20,111.98,minutes,True,11.91,minutes
+2024-11-07,12:15:50 PM,124.23,minutes,True,14.75,minutes
+2024-11-10,09:51:56 PM,135.57,minutes,True,4.75,minutes
+2024-10-29,11:39:31 PM,243.8,minutes,,23.69,minutes
+2024-11-14,08:22:26 AM,156.09,hours,True,3.21,minutes
+2024-11-15,08:24:45 AM,276.09,hours,True,5.8,minutes
+2024-11-03,13:43:33,180.91,hours,False,4.24,hours
+2024-11-21,01:42:54 PM,280.56,hours,,3.36,minutes
+2024-11-14,07:53:50 AM,106.89,minutes,,1.0,hours
+2024-10-30,00:54:33,12.83,hours,False,18.02,hours
+2024-11-04,03:24:36 PM,184.45,minutes,False,14.45,hours
+2024-11-23,21:15:03,122.09,minutes,,1.27,hours
+2024-11-11,11:40:20 AM,13.63,hours,True,15.83,minutes
+2024-11-12,06:41:21,398.9,minutes,True,24.41,hours
+2024-11-27,16:34:28,148.51,minutes,,15.55,hours
+2024-11-22,11:03:28 PM,288.21,hours,,2.94,hours
+2024-10-30,12:26:14 PM,160.01,minutes,,20.04,minutes
+2024-11-18,11:36:09 AM,46.52,hours,False,11.99,minutes
+2024-11-06,17:30:45,98.07,minutes,,8.44,hours
+2024-11-23,10:00:26 PM,60.93,minutes,,13.47,minutes
+2024-10-30,11:05:57 PM,105.72,hours,True,8.62,minutes
+2024-11-02,09:53:35,109.21,hours,True,19.06,minutes
+2024-10-29,12:18:39 PM,143.58,hours,,2.36,minutes
+2024-11-21,12:26:29 PM,251.33,hours,False,16.42,hours
+2024-11-27,15:07:49,121.68,minutes,False,6.8,hours
+2024-11-16,05:03:17 AM,193.43,hours,True,16.42,hours
+2024-11-14,07:59:40 PM,109.11,hours,False,7.1,hours
+2024-10-30,07:30:33 PM,153.57,hours,False,3.67,minutes
+2024-11-25,10:41:21 PM,505.4,minutes,False,36.22,hours
+2024-11-11,16:16:13,253.97,minutes,True,2.07,hours
+2024-11-25,19:03:21,231.11,hours,,23.36,minutes
+2024-11-23,07:15:27 AM,85.43,hours,True,4.43,hours
+2024-11-17,12:03:55,79.56,hours,False,5.6,minutes
+2024-10-28,03:41:21,330.51,minutes,False,41.99,hours
+2024-11-04,10:41:40 PM,109.18,hours,,11.84,hours
+2024-11-22,05:49:40,236.1,minutes,,10.77,minutes
+2024-11-05,03:43:06 AM,105.35,minutes,False,15.44,minutes
+2024-11-01,01:49:18 PM,170.21,hours,True,6.77,minutes
+2024-11-08,02:23:12 AM,49.79,hours,True,1.48,hours
+2024-11-22,01:47:00 AM,48.99,minutes,True,8.01,minutes
+2024-11-14,06:44:15 AM,34.79,minutes,True,5.73,minutes
+2024-11-27,03:47:43 PM,58.55,hours,,15.15,minutes
+2024-11-14,08:21:37 PM,175.55,hours,False,21.85,hours
+2024-11-13,10:14:34 PM,169.74,minutes,,23.75,minutes
+2024-11-11,07:38:12 AM,139.66,hours,False,10.5,hours
+2024-11-22,09:53:05 PM,232.88,minutes,False,2.15,minutes
+2024-11-28,12:25:04,219.79,minutes,False,12.68,minutes
+2024-11-18,06:33:39,250.66,hours,False,13.22,minutes
+2024-11-09,10:18:52,186.17,hours,,15.32,minutes
+2024-11-03,12:32:41,54.57,hours,False,4.7,hours
+2024-11-21,08:21:35 AM,42.14,hours,,11.42,hours
+2024-11-18,22:52:42,261.1,hours,True,22.49,minutes
+2024-11-14,09:33:34 AM,206.72,hours,False,13.67,minutes
+2024-11-26,06:22:52 AM,42.0,minutes,True,22.63,minutes
+2024-11-14,02:52:22,168.69,minutes,False,21.39,minutes
+2024-10-31,20:24:53,37.29,minutes,True,16.83,minutes
+2024-11-11,22:45:23,110.86,hours,,16.06,hours
+2024-11-12,09:52:33 PM,268.84,hours,,17.85,minutes
+2024-10-29,07:59:48,183.24,hours,True,18.85,hours
+2024-11-21,05:41:21,313.65,minutes,False,36.66,hours
+2024-11-08,00:13:02,161.87,minutes,True,13.17,minutes
+2024-11-27,14:41:47,238.26,hours,,9.2,hours
+2024-11-03,15:37:30,261.53,minutes,True,23.11,minutes
+2024-11-01,09:56:43,26.09,minutes,,1.85,hours
+2024-11-08,12:47:01 AM,136.83,minutes,False,1.39,hours
+2024-10-29,18:26:38,159.98,minutes,True,8.51,minutes
+2024-11-11,02:41:21 AM,361.02,minutes,False,31.41,hours
+2024-11-23,14:01:40,98.23,hours,True,7.78,hours
+2024-11-19,11:59:13 PM,207.92,minutes,False,19.4,minutes
+2024-11-01,15:17:46,274.03,hours,False,16.36,minutes
+2024-11-15,05:20:49 AM,47.07,hours,False,21.09,minutes
+2024-11-08,01:04:02,59.3,hours,True,11.62,hours
+2024-11-18,02:53:52,18.46,minutes,False,16.99,hours
+2024-11-07,02:41:01 PM,12.22,minutes,False,7.66,hours
+2024-11-24,09:47:17 PM,88.33,hours,,17.68,minutes
+2024-10-28,17:21:54,104.54,hours,,22.87,minutes
+2024-11-03,21:10:45,186.22,hours,False,9.94,minutes
+2024-11-18,02:50:07 PM,227.31,hours,True,10.01,minutes
+2024-11-21,18:44:04,164.98,hours,False,19.26,hours
+2024-11-02,05:52:47,141.12,hours,,4.25,minutes
+2024-11-03,04:41:21 AM,393.58,minutes,False,41.14,hours
+2024-11-20,10:41:21 PM,326.86,minutes,True,24.66,hours
+2024-11-10,11:59:08 AM,237.74,minutes,True,14.35,minutes
+2024-11-15,03:32:34 PM,285.18,hours,True,11.2,hours
+2024-11-05,07:32:57,28.68,minutes,,18.81,minutes
+2024-11-19,04:40:03 PM,28.1,minutes,,14.77,minutes
+2024-11-14,06:41:13 PM,113.05,hours,False,18.38,hours
+2024-11-24,04:30:52,228.64,minutes,,6.93,hours
+2024-11-21,08:23:28 PM,21.1,minutes,True,5.14,minutes
+2024-11-22,06:25:28 PM,287.13,hours,False,6.36,hours
+2024-11-06,13:43:07,130.36,hours,,13.2,hours
+2024-11-09,05:40:05,102.22,hours,True,16.25,minutes
+2024-11-21,01:02:46 AM,140.62,minutes,False,19.63,hours
+2024-11-12,09:32:12 AM,233.58,hours,False,15.79,minutes
+2024-11-02,02:55:27 PM,49.69,hours,False,5.99,minutes
+2024-11-28,10:31:08 AM,88.8,hours,False,5.29,hours
+2024-11-09,19:49:55,215.54,hours,False,19.76,minutes
+2024-10-31,19:04:24,189.27,minutes,,22.7,hours
+2024-11-27,01:41:21,421.93,minutes,False,34.47,hours
+2024-11-11,14:36:37,150.3,hours,False,9.83,minutes
+2024-11-24,15:16:21,18.38,minutes,,4.77,hours
+2024-10-31,07:28:38 AM,86.89,hours,,13.74,minutes
+2024-11-18,07:01:06 PM,155.92,hours,False,22.07,hours
+2024-11-16,22:45:07,298.24,minutes,False,3.18,hours
+2024-11-21,07:39:26 AM,215.53,minutes,True,20.46,hours
+2024-10-30,08:06:35 AM,72.24,minutes,False,22.26,hours
+2024-11-02,01:08:48 AM,271.21,hours,True,14.57,minutes
+2024-11-04,05:29:43 AM,47.53,minutes,True,21.52,minutes
+2024-11-12,09:49:44 PM,134.68,hours,,4.47,minutes
+2024-11-04,04:03:40,162.07,minutes,True,9.02,hours
+2024-11-21,10:47:30 AM,161.37,minutes,True,3.79,minutes
+2024-11-22,06:23:01 PM,52.68,hours,False,3.83,minutes
+2024-11-21,01:54:40 PM,14.68,hours,,7.59,minutes
+2024-11-17,19:09:54,71.38,minutes,True,1.59,hours
+2024-11-25,22:41:21,349.95,minutes,True,29.46,hours
+2024-11-27,06:35:05,95.19,hours,False,18.14,hours
+2024-11-21,07:34:55 PM,198.34,minutes,False,4.58,hours
+2024-11-08,11:16:03 AM,70.15,hours,,18.2,hours
+2024-11-13,05:06:05 AM,24.62,hours,False,14.4,minutes
+2024-11-19,04:17:49 AM,216.94,minutes,True,20.91,minutes
+2024-11-12,23:42:20,200.26,minutes,False,18.85,hours
+2024-11-15,13:22:24,128.74,minutes,False,9.14,hours
+2024-11-13,05:41:21 AM,545.4,minutes,False,37.33,hours
+2024-11-19,05:40:15,66.92,minutes,,11.32,hours
+2024-11-06,22:06:49,123.26,hours,False,7.93,minutes
+2024-11-20,07:57:53 AM,58.83,minutes,,7.32,hours
+2024-11-12,09:15:53,275.99,hours,True,22.53,minutes
+2024-11-02,12:27:07 PM,14.55,hours,,9.55,hours
+2024-11-26,09:34:41 AM,91.24,hours,False,2.98,hours
+2024-11-02,06:47:13,84.86,hours,True,17.84,minutes
