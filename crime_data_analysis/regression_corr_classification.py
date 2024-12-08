@@ -9,6 +9,9 @@ from scipy.stats import chi2_contingency
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score
+import gdown
+
+gdown.download('https://drive.google.com/uc?id=18p738nQSfsqSUvNOXa74vpEValQZRON2', 'Crime_Data_from_2020_to_Present.csv', quiet=False)
 
 # Load the data
 df = pd.read_csv("Crime_Data_from_2020_to_Present.csv")
@@ -71,6 +74,9 @@ print(f"Mean crime rate after COVID-19: {mean_post_covid}\n")
 
 # Drop null values in LAT and LON
 heatmap_cleaned = df.dropna(subset=['LAT', 'LON'])
+
+# Uncomment this line if you run out of memory for successful execution
+# heatmap_cleaned = heatmap_cleaned.head(100).copy()
 
 # Extract the relevant columns for clustering
 crime_data = heatmap_cleaned[['LAT', 'LON']]
@@ -178,6 +184,9 @@ print("\n")
 
 # Drop rows with null values in the columns that are going to be used
 weapons = df.dropna(subset=['Crm Cd Desc', 'LOCATION', 'TIME OCC', 'Weapon Used Cd'])
+
+# Uncomment this line if you run out of memory for successful execution
+# weapons = weapons.head(100).copy()
 
 # Count the most common weapons
 weapon_counts = df['Weapon Desc'].value_counts()
