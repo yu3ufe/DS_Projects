@@ -1,6 +1,9 @@
 import pandas as pd
 from geopy.distance import geodesic
 import numpy as np
+import gdown
+
+gdown.download('https://drive.google.com/uc?id=1yyIp0TN-btqMjWhMKPRaQYvlcnTNYPeg', 'Real_Estate_Sales.csv', quiet=False)
 
 # Load the dataset
 file_path = 'Real_Estate_Sales.csv'
